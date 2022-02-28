@@ -1,0 +1,1005 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brittish lightning or suddaine tumults, in England, Scotland and Ireland; to warne the united Provinces to understand the dangers, and the causes thereof: to defend those amongest us, from being partakers of their plagues. Cujus aures clausæ sunt veritati, ut ab amico verum audire nequeat, hujus salus desperanda est. The safety of that man, is hopelesse, we, may feare, that stopps his eares against his friend, and will the truth not heare. Mors est servitute potior. Grim-death's fierce pangs, are rather to be sought; than that we should to Babels-yoke, be brought. VVritten first in lowe-dutch by G. L. V. and translated for the benefit of Brittaine.</title>
+            <title>Britannischen blixem. English</title>
+            <author>G. L. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 136 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95952</idno>
+            <idno type="STC">Wing V5</idno>
+            <idno type="STC">Thomason E96_21</idno>
+            <idno type="STC">ESTC R20598</idno>
+            <idno type="EEBO-CITATION">99865191</idno>
+            <idno type="PROQUEST">99865191</idno>
+            <idno type="VID">117428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117428)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brittish lightning or suddaine tumults, in England, Scotland and Ireland; to warne the united Provinces to understand the dangers, and the causes thereof: to defend those amongest us, from being partakers of their plagues. Cujus aures clausæ sunt veritati, ut ab amico verum audire nequeat, hujus salus desperanda est. The safety of that man, is hopelesse, we, may feare, that stopps his eares against his friend, and will the truth not heare. Mors est servitute potior. Grim-death's fierce pangs, are rather to be sought; than that we should to Babels-yoke, be brought. VVritten first in lowe-dutch by G. L. V. and translated for the benefit of Brittaine.</title>
+                  <title>Britannischen blixem. English</title>
+                  <author>G. L. V.</author>
+               </titleStmt>
+               <extent>[10], 61 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Amsterdam? :</pubPlace>
+                  <date>Printed in the yeare 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Errata": p. [62].</note>
+                  <note>Originally printed in 1642 with title Den britannischen blixem ..</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117428:1" rendition="simple:additions"/>
+            <p>Brittiſh LIGHTNING OR Suddaine tumults, in England, Scotland and Ireland; to warne the united Provinces to underſtand the dangers, and the cauſes thereof: to defend thoſe amongeſt us, from being partakers of their plagues.</p>
+            <q>
+               <p>
+                  <hi>Cujus aures clauſae ſunt veritati, ut ab amico verum audire nequeat, hujus ſalus deſperanda eſt.</hi>
+               </p>
+               <l>The ſafety of that man, is hopeleſſe, we, may feare,</l>
+               <l>That ſtopps his eares againſt his friend, and will the truth not heare.</l>
+            </q>
+            <q>
+               <p>
+                  <hi>Mors eſt ſervitute potior.</hi>
+               </p>
+               <l>Grim-death's fierce pangs, are rather to be ſought;</l>
+               <l>Than that we should to Babels-yoke, be brought.</l>
+            </q>
+            <p>VVritten firſt in lowe-dutch by <hi>G. L. V.</hi> and tranſlated for the benefit of Brittaine.</p>
+            <p>Printed in the yeare 1643.</p>
+            <pb facs="tcp:117428:2"/>
+         </div>
+         <div type="translator_to_his_countrymen">
+            <pb facs="tcp:117428:2"/>
+            <head>The Tranſlator to all his loving Countriemen.</head>
+            <p>
+               <seg rend="decorInit">E</seg>Xperience teacheth that, a ſkilfull phyſitian ſtanding by, beholding a patient, and aſking him of his paines and order of his bodie; fin<g ref="char:EOLhyphen"/>deth the nature of the diſeaſe ſooner than the partye himſelfe that groaneth vnder the burden of it. The ſame we finde often times in caſes Eccleſiaſti<g ref="char:EOLhyphen"/>call and Politicall: we can ſooner ſee an others blemiſh than our owne imperfections. The reaſon is, becaus mankind is generallie negligent in ſelf-examination. I muſt ingenuouſly confeſſe, I can not ſay ſo, of the au<g ref="char:EOLhyphen"/>thor of this dialogue; the verie cauſe of his publiſhing it witneſſeth the contrarie; and proveth him (what ſoever he be by calling) a feeling member of his owne bodie, and a good freind to his neighbours. For though I have ſene manie excellent remonſtrances, reſolutions of queſtions &amp;c publiſhed by the <hi>High court of Parlament in England</hi> (whom I take to be (vnder God) the Phyſiti<g ref="char:EOLhyphen"/>an of the land) and their well-willers, which have moſt exactly layd out the ſickneſſe of their body, with the cauſes and cure, which muſt have the preheminence: yet ſo ſoone as I firſt began to read this (conſidering that it is the worke of a ſtranger, and compoſed in a method and ſtyle moſt pleaſing to ſome capacities) I thought it might helpe to the information of my poore Countriemen in the eſtate, of their bodie politicke that knowing their diſeaſe, they might (being humbled for their ſin which is the cauſe) flye unto him for cure, who changeth the times and ſeaſons, ſhaketh the moun<g ref="char:EOLhyphen"/>taines, and maketh the earth to tremble, and the great ones to hide them ſelves when he is angrie; who mak<g ref="char:EOLhyphen"/>eth the warres to ceaſe, and ſendeth peace into the ha<g ref="char:EOLhyphen"/>bitation of the righteous. If in the publiſhing hereof I
+<pb facs="tcp:117428:3"/> shall doe my Country anie profitable ſervice, I shalbe bound to give God thankes for his mercie; and the acceptation of it shalbe my reward. In the meane time whither this profit or no, my prayers shalbe inceſſantly to the Lord, that England may not be a ſeate of warre; but that therein may flouriſh the Goſpell of peace, which bringeth downe the loftie ſpirits of men mak<g ref="char:EOLhyphen"/>ing the wolfe to dwell with the lambe, &amp; the leopard to lye down with the kid, and the calſe, and the young lyon and the fatling together, and a little child; to lead them, &amp;c. <hi>Iſa.</hi> 11, 6. yea cauſeth them to beat their ſwordes into plowſhares, and their ſpeares into pruning hookes, <hi>Iſa.</hi> 2. 4. <hi>&amp;c:</hi> and that he who is the King of Kings, &amp; Lord of Lords, by whom Kings raign &amp; Prin<g ref="char:EOLhyphen"/>ces <note place="margin">
+                  <hi>Rev.</hi> 19, 16 <hi>Pro.</hi> 8, 15 <hi>Pro.</hi> 24, 1</note> decree Juſtice, (who hath their hearts in his hand turning them as the rivers of water which way ſoever it pleaſeth him,) would be pleaſed to make the King a nurſing father, and the Queen a nurſing mother unto <note place="margin">
+                  <hi>Iſa.</hi> 49, 23.</note> his Iſrael.</p>
+            <closer>
+               <dateline>Holland <date>this <hi>20</hi> of the firſt moneth according to our new computation. <hi>1643.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:117428:3"/>
+            <head>The AUTHOR To the READER.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lords, and you the honeſt Inhabitants of the uni<g ref="char:EOLhyphen"/>ted Provinces. That ſtar with a tail ſeen in the year 1618. was a warning and type of a rod that should come over all Chriſtendome: whereupon followed thoſe bloody effects, thoſe horrible warrs, lamentable waſtings, barbarous deſtructions of countreys and cities, the ruine of ſo many coſtly buildings, of ſo many gentle men, ſo many in<g ref="char:EOLhyphen"/>habitants men and women, young and old in <hi>Germanie.</hi> And ô that we could yet ſee the end, the bottome of the cup of indigna<g ref="char:EOLhyphen"/>tion! but the rodd flouriſheth ſtill, the deſtroyer is yet buſie: the hand of God is ſtretched out ſtill, there is yet too much chaffe to hang away the fanne, the ſilver is yet too unclean, to blow out the refyneing fire. The inhabitants and thoſe that are fled from <hi>Ger<g ref="char:EOLhyphen"/>many</hi> muſt (by the weight of their miſeries and plagues) be brought to a better minde, to farther reformation, to a greater feeling of, and ſorrow for their paſt and preſent ſins, before there can be any hope that the rod of Gods wrath (wherewith they are now op<g ref="char:EOLhyphen"/>preſſed) shall be caſt into the fire.</p>
+            <p>That earthquake not long ſince felt in the year 1640. was a to<g ref="char:EOLhyphen"/>ken of great commotions, and mighty shakings of the Kingdomes of the earth: for a little before and shortly thereupon was conclu<g ref="char:EOLhyphen"/>ded the revolt of <hi>Cathalonia,</hi> the falling-off of <hi>Portugale,</hi> the ſtirres in <hi>Scotland;</hi> the rebellion of the <hi>Ireish,</hi> thoſe civill (uncivill) warres, great alterations, unexpected tumults in <hi>England:</hi> amongſt which none more neare, none more fearfull and dangerous to us, than the rebellion of <hi>Ireland,</hi> which had its originall and rize in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> from the great ones, from the Papiſts, from the enemies of our religion and ſtate, ſeconded by our deadly enemie the King of <hi>Spaine,</hi> plotted by the Jeſuits, executed by the barbarous <hi>Ireish,</hi> who are already growne ſuch profitiens in the ſchole of thoſe murdering Ieſuits, that they (according to their diſpoſition and
+<pb facs="tcp:117428:4"/> counſell) ſtrive for the prize, who can invent the cruelleſt manner of torments for the <hi>Proteſtants,</hi> cutting of their privie-members, eares, fingers, handes, boareing out their eyes, ſtripping ſome wives naked and that in the preſence of their huſbandes, and bruitiſhly abuſe<g ref="char:EOLhyphen"/>ing others, ripping infants out of their mothers wombe, and pre<g ref="char:EOLhyphen"/>ſently daſhing them againſt the ſtones, exerciſeing many other cruelties (which are publiſhed and diſperſed farre and neere in print to the amaſement of all men) upon our fellow-members that are of the ſame covenant and faith with us. Doe not then theſe miſeries touch us which are executed on our bodie? and that ſo neere; yea, the civill warres in England are yet more dangerous for us: where the friends, members, citizens, inhabitants, ſubjects, of one Kingdome, profeſſors of one faith, <hi>Manaſſe and Ephraim,</hi> ſtrive one againſt an other. They there are our confederates, bretheren, friends, antient aſſiſtants, neereſt neighbours. There wreſtleth the King againſt his ſubjects, the head againſt the members, the maſter againſt his ſervants; There the defender is become a Spoiller, the Sheepherd a deſtroyer, <hi>Eden an Adamah, Cunaan a wildernes.</hi> There a long-laſting miſſe-uſed peace, is changed into an unexpected wa<g ref="char:EOLhyphen"/>ſting warre. There may we now ſee worne in the place of pluſh, velvet, ſilkes, ſattines, coſtly apparrell, chaines of gold and pearle, harnaſſe, ſwordes, bandaleers, muſquets. There may we beare now in ſtead of Luxurious wantonneſſe, danceing, maſking, viols, fluits, harpes: ratlings of drums, ſound of trumpets, neighing of horſes, the ſound of an alarm, groanes of the wounded, and the ru<g ref="char:EOLhyphen"/>mour of the approaching furious cavaleers. There al merchandiſing and trading ſtandeth ſtill. Ther is expence without gaine; there conſume they that treaſure in <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rouble and diſtreſſe, which they were ſo long in gathering; cities and houſes are pillaged, the countrie ruinated and waſted. They were fore-told of this miſerie, but none would receave, none beleeve it: Now feele they the evill day, which they had put ſo farre from them; now they feele what they have brought upon them ſelves through their unbeliefe; now thoſe thinges preſſe them which for want of feeling they caſt into the ayre. Theſe thinges wee ſee afarre of, we heare this, but with little obſervation, to provoke us to behold our ſelves in them: that ſo we may avoide thoſe rocks, whereon they have ſuffered ſhip-wrack. Their haughtines and ambition went before their fall, the pride
+<pb facs="tcp:117428:4"/> in apparrel, and dyet, the ſtate (that ſuckt the monie) had taken the upperhand: and now the Kings high way-Robbers. Scrabble, ſpoile, ſteale, waſt, deſtroy, burne, the treaſures and riches of England. Shall not we then amend theſe things? and put away theſe ſins which are growen to ſuch an height among us, that ſo they may not bring the like miſeries upon us? wantonneſſe, danceing, drinking, ſwilling, maſking, ſtage playing, fornication, adulterie, hate, envie, have borne ſuch ſway, that t' was accounted the higheſt crime to ſpeake or write againſt them: and thoſe that have ſo offended have bin (without mercie) openly brought upon the ſchaffold, burn-markt, their eares cut off, and they caſt into perpetuall impriſonnent. Howe farre theſe have broken in upon us experience teacheth us but too too well. ô that (as traytors to our ſtate) they were baniſhed out of all places and heartes; that by them our peace and happines be not baniſhed from us. That bad goverment in church and common wealth, brought in by unfit, unexperienced, audatious, ambitious, re<g ref="char:EOLhyphen"/>vengefull perſons, hath made the land reele like a druncken man, who have wrung wreſted, moulded the lawes, priviledges, liberties, rights to their owne ends and paſſions: who diſpoſſeſſe, affront, ter<g ref="char:EOLhyphen"/>rifie and compell the moſt antient, grave, honeſt, fit, faithfull, expert, couragious governors to chooſe their party, or els to forſake their places, and live in higheſt indignation. To what height this alſo is growne amongſt us, and daylie more and more increaſeth, the ſtones cry; that confuſion teacheth which begins to be acknowled<g ref="char:EOLhyphen"/>ged by all men that with cleare eyes doe marke the diſcords in reli<g ref="char:EOLhyphen"/>gion, and ſuppreſſions of thoſe priviledges which they have with lives and goods ſo long maintayned, which muſt be remedyed, orels they will bring forth our moſt certaine ruine. That I dolatrie hart<g ref="char:EOLhyphen"/>ening of papiſtrie, foiſting in of papiſticall ſuperſtitions, freedome of Jeſuits, and other holy (unholy) orders that with out feare ſpread themſelves over the whole Kingdome to the miſleading of manie thouſand ſoules, advanceing of the popelike <hi>Hierarchie,</hi> ſuppreſſing of the truth, and true profeſſors of the ſame, and that with ſuch coun<g ref="char:EOLhyphen"/>tenance, that the King himſelf was become their patron and Spokeſ<g ref="char:EOLhyphen"/>man, when at any time (according to the lawes of the land) they were juſtly condemned to any puniſhment: whereas the honeſt, godly, prudent, politicke preachers could not have anie beame of favor from his Majeſty, when they were by the Biſſhops unjuſtly
+<pb facs="tcp:117428:5"/> condemned to open shame and punishment (worſe than death) for well doeing, for withſtanding the ſinnes of the land, and over<g ref="char:EOLhyphen"/>flowing of papiſtrie. At this Cod him ſelfe was grieved and waxed jelous for his truth, and faithfull ſervants, and would not ſuffer the Scepter of the wicked to reſt alwayes on the lot of the righteous, leaſt they should put forth their hand to wickedneſſe: but hath taken the refyneing pot into his hand, and put the fire of diſſention under it, which hath already diſcovered many for droſſe. Theſe grievances, this flood of Idolatrie, this freedome of popish exerciſes, Saying of maſſe, bonfires on holy-dayes, proceſſions, tolleration of all ſortes of fryers and nuns, to the miſleading of the inhabitants, weakening of our ſtate, incoura<g ref="char:EOLhyphen"/>ging of our neighbouring enemie, was (not many yeares ſithence) ſo increaſed, that the wound was judged incureable, the poyſon too much, and their power too great to be daunted, deſtroyed or hindered by sharpe proclamations, ſtrong reſolutions, or power of officers. Shall not this then needes make the leaſt dan<g ref="char:EOLhyphen"/>ger that shall befall us remedieleſſe, by reaſon of the enemies within which deſire our ruine no leſſe than thoſe that are with<g ref="char:EOLhyphen"/>out, who will be ready (according to the example of the papiſts in England and Ireland) whenſoever they shall have a faire advan<g ref="char:EOLhyphen"/>tage to contribute thereunto? Shall not this then awaken us before it is too late, and the time shall not permit, to drive out theſe <hi>Ca<g ref="char:EOLhyphen"/>naanites,</hi> and take away theſe high places? otherwiſe they shall take away both us and our religion. This is the caſe of <hi>England,</hi> and theſe be the cauſes thereof. The ſame humour is amongſt us; and shall not the ſame diſeaſe follow thereupon? wee are like them in ſin, and shall we not be made like in punishment? If wee perſwade our ſelves otherwiſe, we deceave our ſelves: we are the next to be cured by the like medecine, that would not hear<g ref="char:EOLhyphen"/>ken to thoſe lively admonitions and warnings exhorting us to re<g ref="char:EOLhyphen"/>pentance. Every one prepare himſelfe for a ſtorme, to undergoe the plague that comes driving on. In the meane time let us have compaſſion on our brethren in <hi>England</hi> and <hi>Ireland;</hi> let us pray for them, that the great ones may helpe to reconcile the <hi>King</hi> and <hi>Parliament,</hi> to remove the differences, that their ruine be<g ref="char:EOLhyphen"/>come not ours: which will ſurely come to paſſe, if thoſe that are on the Kings ſide together with him get the upper hand. Then
+<pb facs="tcp:117428:5"/> shall they roote out the Parliament, alter the goverment, ſup<g ref="char:EOLhyphen"/>preſſe religion, proceed in their begun revenge againſt the ſub<g ref="char:EOLhyphen"/>jects, reſtore the Bishops, who as inſtigated perſons shall rage more than ever, to bring their miſſe carriage to a perfect iſſue; ſtriving to make of force their Popish Canons, and againe to lord it over the conſciences of the Inhabitants. The Papiſts, as being now the Kinges truſtyeſt aſſiſtants, shall then be his beſt beloved children: then shall the beſt Chriſtians be under the yoke. And when England, and Scotland (which shall not goe free) shall be ſubdued, and made ſlaves; then shall they enter their action againſt us; the pretence of the North Sea shall be revived: reſtitution muſt be made for that imagined dammage they have ſuffered in the Eaſt-Indies, and here at home; and transferre their plagues upon us. What can we els exſpect from the Kings Counſellers, who (now theſe many yeares) have bin friends to Spaine and enemies to our State, who shall not become bet<g ref="char:EOLhyphen"/>ter, but worſe by this warre. But if the Parliament get the upper hand, then shall the King be preſerved (being delivered from the ſlavery of his ſervants) and remaine as free and abſolute a King as ever, if he will but advance the good. Religion shall be maintained, the Inhabitants defended, and brought into their former reſt, the lawes and priviledges eſtablished, reformation in Church and common wealth shall powerfully proceede, to the adorning of the State. Our common weal shall be by that means ſecured, and the malignants reſtrained. Let no man then con<g ref="char:EOLhyphen"/>tribute to the ſuppreſſing of the Parliament; eſpecially let not us Netherlanders, for the foundation of their warre and ours is all one: they have maintained us therein with their goods, and blouds, we muſt not helpe to ſuppreſſe them; els God shall ſup<g ref="char:EOLhyphen"/>preſſe us, the inhabitants would proteſt againſt us before God and the world, and God would ſee, and ſearch it. Let us not imploy thoſe ſoldiers, which are in our ſervice, to help the papiſts there, to ſuppreſſe both them and us. Let us not tranſport the armes of the land, and leave our ſelves naked: for that is our Capitall. Let no Inhabitant (to ſatisfie his covetouſnes) further, or aſſiſt them: for shall we not then put a knife into their handes, to cut our owne throats? But be well informed concerning the drift of the King and
+<pb facs="tcp:117428:6"/> Parliament<g ref="char:punc">▪</g> and then you shall quickly ſee whoſe ſide you muſt take: that you shall finde in this Brittiſh Lightning which shew<g ref="char:EOLhyphen"/>eth the unexpected and ſuddaine tumults of the Kingdomes with the cauſes thereof. Read with conſideration, and judge right.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:117428:6"/>
+            <head>The Brittiſh Lightning, or ſuddaine tumults in England, Scotland and Ireland: for a warning to the United Provinces.</head>
+            <stage>
+               <p>
+                  <hi>Engliſhman.</hi>
+               </p>
+               <p>
+                  <hi>Netherlander.</hi>
+               </p>
+            </stage>
+            <sp>
+               <speaker>N.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Elcome Sir: when came you from England?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>I came thence but juſt now, as you ſee: I have my travelling clothes yet on.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I am glad I have met you here, I have a long time expected your coming, that I might once heare how all things go.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>How should it goe? bad enough: there is no King<g ref="char:EOLhyphen"/>dome more miſerable than ours; it ſtands all in con<g ref="char:EOLhyphen"/>fuſion.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>How can that be? for 't is but a little while ſince that all your Kingdomes were alone at peace, when the whole world was at wars I have alſo heard that you have had the negotiation of all kingdomes &amp; ſtates in your havens, whereby everie one among you became rich and wealthy.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>'T is ſo; we ſate (as it were) in Abrahams boſome, dwelling among our owne people, had good things under our fig tree; we ate the fat, we dranke the ſweete, knew of no evill: yea, we feared no miſchance, not knowing from whence it should come upon us, ſeing that we dwell in Ilands that have the ſea, the ſand, the rockes, our ships, &amp; Saylers, for our defence; whereby we became a careleſſe people.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I have alſo alwayes heard the ſame, therfore I
+<pb n="2" facs="tcp:117428:7"/> wond'red ſo much when you told me that your king<g ref="char:EOLhyphen"/>dome was the moſt miſerable of all kingdomes, when notwithſtanding all Kingdomes in <hi>Germanie, France,</hi> and elſewhere, are in exceeding bloody warres, to the ruine of many thouſand ſoules.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You are in the right, that Chriſtendome is in a lamentable condition, where the blood of men is ſpilt like water, ſo that many countries cities and towns are waſted, burnt, and deſtroyed: yet their warre is not to be compared with this of ours.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>How! have you warres? from whence is it come upon you? you are (alwayes provided) in peace with all Kingdomes: I have heard of no breach, and how can any man come with ſoldiers into your land, ſeing you are ſo mighty within, both in men and ships? This is very ſtrange newes to me.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Well! but how can that be, that you have not heard of our warres, when the flame thereof is gone up into heaven, and the ſound thereof to all parts of the earth? have you no better intelligence? yes, we are at wars, but not againſt our enemies without, but within; it is a civill warre that ſcourgeth us which is the moſt miſerable, for 't is neere us, the one Kingdome againſt the other, the father againſt the ſon, one citizen againſt the other.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>What doe I heare! mine heart trembleth. Are you come into our place where we were once, when here in our land the one city ſtood up againſt the o<g ref="char:EOLhyphen"/>ther, the one province againſt the other, each uſing ſoldiers and guards againſt the other: ſo that our land, our church, our liberty hung on a ſilken thred; yea, we should have conſumed one an other, had not Gods bleſſing and the wiſe and couragious counſell of <hi>Prince</hi>
+                  <pb n="3" facs="tcp:117428:7"/> 
+                  <hi>Maurice</hi> prevented it. Oh! I bemoane with weeping eyes thoſe that are in ſuch a condition.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Yea, our flourishing Kingdom is now in the hi<g ref="char:EOLhyphen"/>gheſt diſunion; 't is <hi>Ephraim</hi> againſt <hi>Manaſſeh,</hi> &amp; <hi>Manaſ<g ref="char:EOLhyphen"/>ſeh</hi> againſt <hi>Ephraim,</hi> we heare of nothing but warres and rumours of warres. All trading traffique and proſpe<g ref="char:EOLhyphen"/>rity ſtands ſtill, Citizens are turned ſoldiers; in all pla<g ref="char:EOLhyphen"/>ces you may ſee the houſes provided with armes, every one ſtanding (as it were) ſentinel, not knowing from whence they should expect their enemies, for the one brother, the one Citizen, doth not truſt the other.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>But how freind! Come you with ſuch tydings? my heart bleeds to heare it: who should ever have thought it? how ſpeedily can the Lord GOD raiſe an adder out of our owne boſomes, that shall eate us up. Why doe men then gape after preſent friends, ſtrength, rivers aliance, mighty people? for men may have all theſe, and yet notwithſtanding fall into the greateſt calamities.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You ſay well; for but three yeares agoe there was not the leaſt appearance of any unquietneſſe. When the ſervants of God forewarned us of the plagues that hung over our heads; every one asked, from whence they should come. Such preachers as ſpake of heavie tydings, of great punishments that should come upon the Kingdome, were accounted for raylers, logger<g ref="char:EOLhyphen"/>heads, melancholly perſons, puritans, whoſe words the land was not able to beare.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Oh friend! it goes juſt ſo alſo amongſt us. When our teachers warn us and foretel us (as they many times doe) that our quietnes shall be turned into unquietnes,
+<pb n="4" facs="tcp:117428:8"/> our mirth into ſadnes, our riches into poverty, our bleſſing into a curſe, that there are heavy plagues hanging over our heads, that we shall not eſcape the tempeſt of Gods wrath, but (as is to be feared) we (not taking example by the puniſhments of others) shall drinke out the dregs of the cup of Gods indignation: then they make a jeſt of it, no man believes it &amp; ac<g ref="char:EOLhyphen"/>counts it an impoſſible thing as long as we have ſo ma<g ref="char:EOLhyphen"/>ny valiant ſoldiers both by ſea &amp; land, ſtand in ſuch al<g ref="char:EOLhyphen"/>liance, &amp; have ſuch a Generall. But as you told us con<g ref="char:EOLhyphen"/>cerning England, ſo maie they well lay it to heart, for it was a great deale more unlikely to come on you, than upon us: but tell me (I pray) how came you into this warre? how began it firſt? who, and what were the cauſes thereof?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>That can not ſo Suddainly be related, but if you pleaſe to accompanie me to my lodging, where I may shift and refreſh my ſelf a little, I shall willingly ſpend an houre with you; for I perceive you have compaſſion on our eſtate, &amp; therfore I will preſently lay open all things unto you, that ſo you may the more heartilie pray unto God for us, &amp; (if need ſo require) afford us all the aſſiſtance you can, &amp; alſo ſtirre up others to doe the like.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I will verie willingly goe along with you, &amp; give you the welcome: for I love the Engliſh nation with myne heart, &amp; would be angry with all ſuch Nether<g ref="char:EOLhyphen"/>landers as should not take compaſſion on the heavi<g ref="char:EOLhyphen"/>neſſe of England, that had ſo great compaſſion on us when we were wreſtling againſt the tyrannie of Spaine, when they came to helpe us, both with their goods and bloods &amp; were the principall inſtruments of our free<g ref="char:EOLhyphen"/>dome. No true hearted Netherlander shal forget that
+<pb n="5" facs="tcp:117428:8"/> favour, but by all meanes ſeeke to requite it. Seing then that we are come to a good fire, I pray you relate unto me in order, what are the occaſions of all theſe ſtirres in England, &amp; alſo who be the cauſes thereof?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The cauſes thereof are divers, the Jeſuiticall pa<g ref="char:EOLhyphen"/>piſts, the Biſhops, thoſe politicke flatterers that are about the King at Court, &amp; other malignant perſons beſides, who have each his particuler end; yet all tending to the falſifying of religion, changing of government, ſuppreſſing of the ſubjects, and ruine of church and common-wealth.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You tell me ſtrange things! how could all theſe perſons weave one webbe, ſeeming ſo contrary one to another, as light and darknes, heat and cold; the Jeſuits and biſhops are alwayes ſo farre different one from an other, as truth and falſehood, Chriſt and Antichriſt; the one being ſupporters of the popes kingdome, the other heads of the reformed Religion; they ſerve divers maſters, are of a divers Kingdome, yea religion; the one ſeeketh alwayes to build up what the other ſeeketh to pull downe. How can theſe two walke together, when they are not a greed?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>We thought ſo too, that the Papiſts and our Biſhops were ſo farre from one another, as the eaſt is from the weſt, and that they were deadly enemies the one to the other, becauſe in former times many of the Biſhops have reſiſted the Romiſh kingdome, even unto bloud, yea many of them have been martyred by the papiſts, beheaded, burnt; and in all places in the pure religion perſecuted unto death. But we have in our times of peace and wealth all too well obſerved, that our Biſhops have forgotten and ſlighted their office, their promiſes before God and the congregation, the
+<pb n="6" facs="tcp:117428:9"/> example of their predeceſſors, and in ſtead of leaders are become miſleaders, of defenders of the pure wor<g ref="char:EOLhyphen"/>ship of God falſifyers and corrupters of the doctrine of ſalvation, and extinguishers thereof.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You relate unto me ſuch things as I should never have beleeved. What! I have ſometime heard (as I thinke) propounded by our beſt polititians, that it were good that we had alſo Bishops in our land, or at leaſt <hi>ſuper intendants,</hi> that then all things would be better carried in the church for the preſervation of order, to breed reverence; whereas now every one being maſter alike great confuſio<g ref="char:cmbAbbrStroke">̄</g> by that mea<g ref="char:cmbAbbrStroke">̄</g>s is bred in the church, trouble and an heavy burthen upon the goverment, for when any man will now proſecute a matter in the church before church men<g ref="char:punc">▪</g> he is ſo retroubled, then it were no more but ſpeaking to the head, and he should give order to the reſt; hereby alſo thoſe Synods which coſt the land ſo much should be cut off, which ſeemed to me not ſo unreaſonable a propoſition: but if the Bi<g ref="char:EOLhyphen"/>shops or Superintendants should make ſuch worke as you tell me, the Lord deliver us from them.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O friend! call you them good? yea, your beſt po<g ref="char:EOLhyphen"/>lititians that are with childe of ſuch a pernitious con<g ref="char:EOLhyphen"/>ceit; that were the right high-way to turne all things upſide-down amongſt you, to diſturbe the peace both of Church and common weal, and to put to hazard the purity of religion, which by Gods ſpeciall bleſſing is eſtabliſhed amongſt you in ſpight of ſo many enemies and wicked oppoſers, and crowned with many bleſ<g ref="char:EOLhyphen"/>ſings from heaven; for that your free order and Church government agreable to Gods word, not without rea<g ref="char:EOLhyphen"/>ſon ſo highly commended among us, is the hedge whereby the truly reformed religion muſt be preſer<g ref="char:EOLhyphen"/>ved
+<pb n="7" facs="tcp:117428:9"/> and maintained; which our brethren the Scots well knowing have judged that they could not anſwer it before God and their poſterity if they should ſuffer their old church-government and order (which as I am informed differeth not much from that of yours) to be changed, and will rather looſe their lives and goods in Gods cauſe than ſuffer the purity of religion which is the foundation of all proſperity both in church and common weale to be given over as a prey to the enemies, and ſuffer a company of half papish Bishops to dominere over their conſciences. And we hope that our Lords and Burgeſſes of Parliament (perceaving how farre we are run out in this point of Church-go<g ref="char:EOLhyphen"/>vernment &amp; worship) wil labour to bring our churches into the ſame church order with our brethren the Scots, at leaſt that they will utterly roote out the Epiſ<g ref="char:EOLhyphen"/>copall goverment, together with all its hurtfull rootes and branches. And should you have ſuch perſons a<g ref="char:EOLhyphen"/>mongſt you that would bring in theſe evil plants which God hath not planted, then were you utterly undone. Let not therefore the ancient land-marks be remo<g ref="char:EOLhyphen"/>ved, hold that you have that no man take your crown.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You open mine eyes more and more; I had not ſo deepe an inſight into theſe things before, and I per<g ref="char:EOLhyphen"/>ceave that our Churches and the land wherin we dwel as a free people, can not have peace if they should re<g ref="char:EOLhyphen"/>move the land marks of civill and eccleſiaſticall go<g ref="char:EOLhyphen"/>vernment; the whole houſe should by that means tot<g ref="char:EOLhyphen"/>ter. And now I thinke upon that which was written to me a while ſince concerning thoſe ſtirs which here and there appeare in our provinces where men under pre<g ref="char:EOLhyphen"/>tence of a papish right (which yet ought to be nullified and cashiered by the power of our reformation) ſeeke
+<pb n="8" facs="tcp:117428:10"/> to rob the churches of that godly right which they have receaved from Chriſt their King in the free ele<g ref="char:EOLhyphen"/>ction and choice of their teachers; how that the pre<g ref="char:EOLhyphen"/>tended patrons thruſt in preachers againſt the wils and liking of the aſſembly, and if they refuſe to receive them they shut the church doors and thruſt the lawful preachers out of the pulpit, ſo that publike worship could not be performed without danger of blood shedding, quarrelling and unſupportable inſolencies; God preſerve us that it break no further, out and ther<g ref="char:EOLhyphen"/>fore I will pray to God that all good and godly gover<g ref="char:EOLhyphen"/>nors of the land may maintain the authority of Synods, and Church-aſſemblies for the redreſſe of ſuch like e<g ref="char:EOLhyphen"/>vils, and that they may not be hindered in their pro<g ref="char:EOLhyphen"/>ceedings in thoſe things which concern the churches; then should not the aſſemblies many times laſt ſo long, but the land be unburthened of unneceſſary char<g ref="char:EOLhyphen"/>ges which otherwiſe are here very narrowly reckoned on. But I am wholy inclined to hear the ſtate of your church, tell me then what might be the intention of the Biſhops and Ieſuits which you accompt one brood.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>What intention ſhould they have had? to bring in papiſtry into England, and the Inquiſition over the Inhabitants.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>That is lightly to be beleeved concerning the Ieſuits, who diſperſe themſelves like poiſon over the whole world, to make one childe of hell twiſe as bad as themſelves; to which end they creep into all courts, ſow jealouſies in all places, and are the cauſe of all the warres in the world: but that the Biſhops had ſuch an intention that made profeſſion of the reformed religi<g ref="char:EOLhyphen"/>on, that ſometimes write and preach againſt the pa<g ref="char:EOLhyphen"/>piſts, that is not ſo eaſy to be beleeved.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:117428:10"/>
+               <speaker>E.</speaker>
+               <p>You ſpeak the truth therein, that the Biſhops (to deceave the people, and that the King ſhould not en<g ref="char:EOLhyphen"/>tertain thoſe complaints that come againſt them con<g ref="char:EOLhyphen"/>cerning that point) do ſome times write and preach a<g ref="char:EOLhyphen"/>gainſt thoſe of the papacy: yea the Arch-Bishop him<g ref="char:EOLhyphen"/>ſelfe preaching on a time before the King, did wholy proceed againſt popish doctrine, and in the pulpit did exhort all church-men to teach &amp; write againſt them, and that every one in his parish should have a watch<g ref="char:EOLhyphen"/>full eye over them, to make them come to Church, or els to complain; which when ſome have done, then hath he (by indirect means) perſecuted, impriſoned, and diſtreſſed them for the ſame, letting them ſecretly know that it was becauſe others should be affrighted from doeing the like.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Then muſt he have bin an horrible hypocrite, and have had a ſeired conſcience, ſo shall Gods judge<g ref="char:EOLhyphen"/>ment certainly follow him at the heels, and his king<g ref="char:EOLhyphen"/>dome shall not ſtand.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Such an one he was indeed, who knew how ſo cunningly to diſſemble, that the King thought him the holyeſt man in England, he was alwayes a ſcoffer of the upright, a freind of Ieſuits, &amp; a flatterer of great ones, by which meanes he became ſo great, but now truly as little and deſpiſed, ſitting where he can doe no more miſchief.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>But how! is he out of favour? is his game ended? hath Cod brought his wheel about?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O yea; God hath verified it on him, that thoſe that oppreſſe his shall alſo be oppreſſed: for with the ſame meaſure that he hath meaſured to others it is meaſured to him again. He hath thruſt many out of their offices, and caſt them into priſon, and that is juſt<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:117428:11"/> come upon himſelf: he ſits faſt in the tower, and is long agone condemned as a Traitor to the land, and were it not for his age, and that he is God-father to one of the Kings children he had bin long ſince execu<g ref="char:EOLhyphen"/>ted, and what shall become of him yet, is uncertain.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Yea, I thought that the great God of heaven and earth should yet doe right upon him which had abuſed his right to the greateſt Injuſtice againſt his church &amp; worship. But tell me (I pray) where hence it appears, that the Bishops together with the Ieſuits ſought to al<g ref="char:EOLhyphen"/>ter the religion and bring in papiſtrie?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>That shineth as cleer as the bright noon day; you muſt alſo confeſſe it, and the whole world, when you hear what wayes they went in.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I pray now explain it a little unto me, for many in our land eſpecially amongſt the great ones beleeve it not, and think that they are but reproches and miſſe<g ref="char:EOLhyphen"/>reports of the puritanes or Browniſts or ſome diſcon<g ref="char:EOLhyphen"/>tented great ones, becauſe they can not have choice of eare and share in the prey.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O No! they be no ſlaunders, it appears by the particulers, for all that the Ieſuits could have bin able to doe ſuddainly to make the people papiſts before they were aware of it, that have they done and to that end they have by little and little and by degrees ſet up all the outward forme of papiſtrie in the church of En<g ref="char:EOLhyphen"/>gland, for the apparrel which the Biſhops and preachers wear in Gods ſervice are of the ſame fashion with the apparrell of the Bishops and preiſts under the papacy.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Doe the Bishops and preachers amongſt you weare other clothes then our teachets, &amp; the teachers of the reformed churches in France, Geneva, Switſer<g ref="char:EOLhyphen"/>land, and Germanie do weare.</p>
+               <pb n="11" facs="tcp:117428:11"/>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O yes, if you did but ſee the Bishops or the Bi<g ref="char:EOLhyphen"/>shops preachers ſay ſervice in our church, you could not diſtinguish them from the popish Clergie, for they have then on a Bishops-gowne, wide ſleeves, a fower cornered cap, the tippet, the ſurplus, the Cope, the hoode the cannonical clothes, and all that a Prieſt at any time puts on.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Is that poſſible? if our preachers here should begin to go ſo, the children would run after them, and tear ſuch clothes off their backs, &amp; throw dirt at them, and eſteem them for the papiſts apes.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Yea<g ref="char:punc">▪</g> ſo doe our Epiſcopall-clergie carry the bu<g ref="char:EOLhyphen"/>ſineſſe who have a long time uſed our people to theſe clothes, that it should not be accompted new, when they should appear in them not as reformed but as pu<g ref="char:EOLhyphen"/>blike ſervants to the ſeat of Rome; yet this is but the leaſt, the churches alſo a few yeares ſince were made altogether like the papiſts churches.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>What do I hear? I hope that there be no Images ſet up there, or thar Dagon is placed by the Ark, there are too many excellent Authours that have written a<g ref="char:EOLhyphen"/>gainſt ſuch high places, as that they should not be taken away.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O that it had bin ſo; but we muſt confeſſe to the shame of our Nation that the Tempels of God are be<g ref="char:EOLhyphen"/>come ſlaughter-howſes, and right Innes for all the wares of Antichriſt, for the Bishops have cauſed to be ſet up in our churches Pictures, Images, Cruci<g ref="char:EOLhyphen"/>fixes, Wax-candles, Altars, they ſing their even<g ref="char:EOLhyphen"/>ing and morning ſong with Beades, Organs, Mu<g ref="char:EOLhyphen"/>ſick, as in the popish Mattens, they cauſe the pul<g ref="char:EOLhyphen"/>pit to be hanged with the Armes and marke of the Ieſuits, eſpecially in the Cathedral churches, and
+<pb n="12" facs="tcp:117428:12"/> in the Kings Chappell, where they ſet up great Craci<g ref="char:EOLhyphen"/>fixes after the manner of the papiſts, and have alſo ſo adorned all corners with Images that many papiſts and other ſtrangers coming thither knew no better but that they had been papiſt churches and chappels.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>That is no wonder, for according to your rela<g ref="char:EOLhyphen"/>tion, one egge is not ſo like an other, as your churches and the papiſts. But 't is wonder that the governours (and ſpecially the King) have ſuffered ſuch things for that is the right way to lead all the inhabitants blind fold to all Idolatrie.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It was well ſaid concerning the governours; but experience hath taught us that where the Bishops are maſters the governours have not much to ſay: yea they had ſuch power that they have given out proceſs to bring divers officers, Majors, Iuſtices, priſoners to their ſpirituall Court, confiſcated their goods &amp; made them ſo affraid, that they muſt flye the land, and all becauſe they did not diſpatch to ſet up Altars in place of the Communion Tables: no man durſt lift up their heads againſt them; and concerning the King they made him believe that the tolleration of the out<g ref="char:EOLhyphen"/>ward form of papiſtrie should bring to paſſe, that ſeing there was ſo little difference in the outward, and that the King condeſcended ſo far unto them; that they alſo would then be ruled by the Kings religion to give him content, and hereby have they blinded the eyes of the King, and brought him ſo far, that he in ſtead of hindering this bringing in of papiſtrie, hath judged it convenient and maintained it by his authority, to the grief and aſtonishment of all the godly, and joy of papiſts.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>What! were the Bishops ſuch lads, to deale by
+<pb n="13" facs="tcp:117428:12"/> ſuch falſe practices? then 't is no wonder, that all the honeſt men in England care not for them: but tell me yet, again, were they alſo papiſts in their forme of do<g ref="char:EOLhyphen"/>ctrine? or was it onely in the outward ceremonies and worship?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You can eaſily imagine, whither it be poſſible, that any man can come ſo neer the popish Religion in the outward worship, with ſuch zeal for thoſe Idola<g ref="char:EOLhyphen"/>trous inſtitutions, without beeing one with them indo<g ref="char:EOLhyphen"/>ctrine alſo. It is very true that the Bishops and their adherents will not go to church with ſuch a cloak, that they should be thought papiſts in doctrine, they have kept that a longtime hid, but the oulder they grow the more their painting falls off, and the more their Eſaws coate is worne out: So that all men by little and little begin to ſee what was hid under it, ſo that they could not alwayes play behinde the curtain, as alſo was not their intention; but they have now and then begun to appear on the ſtage, and made it apparent, that their mouth was reformed, but their heart papish.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You ſay true, for he that is a true proteſtant, he will hate even the garment ſpotted with the flesh, she that is not a whore in her heart, will not put on a who<g ref="char:EOLhyphen"/>rish attire: he that is a right Reformed one will not be burthened with ſuch traditions, he will not touch, taſt, or handle them, as being brought in according to the inſtitutions and doctrines of men, much leſſe he will defend them himſelfe, appoint them, be zealous for them more then for the truth it ſelf. But (I pray you) tell me yet, wherein have the Epiſcopall Clergie ma<g ref="char:EOLhyphen"/>nifeſted that they are one with the papiſts in Doctrine alſo?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>There can plentifull proof be given of that: for
+<pb n="14" facs="tcp:117428:13"/> they have not onely cauſed theſe foreſaid things to be obſerved as indifferent, but they have with the pa<g ref="char:EOLhyphen"/>piſts placed holineſſe therein, as by this appeares, ſee<g ref="char:EOLhyphen"/>ing they compell the people to do reverence to thoſe things, for when the bare name of Ieſus is uttered, then muſt every one bow, alſo no man may approach to the meaneſt of thoſe Altars which they have ſet up, (and named by the name of the mercy ſeate, the place of Gods gif<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,) without bowing three times before it, and then fall upon his knees. They have conſecrated and hallowed their Churches, Chappels, &amp; pavements of the ſame, the pulpit, cups, church yarde, and many other places, pretending that without this conſecra<g ref="char:EOLhyphen"/>tion, the places are unholy, and unclean, and therefore no ſervice might be performed therein till that were firſt done; yea if by any occaſion they were never ſo little defiled then they were pronounced unclean till they were again purified by the Bishops. Who may not from hence cleerly ſee that their faith concerning hu<g ref="char:EOLhyphen"/>mane traditions is all one with that of the Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You are in the right, for ſuch adminiſtrations are altogether according to the faith of papiſts; ſo that I hold it for certain, that the Bishops and Ieſuits, under<g ref="char:EOLhyphen"/>ſtood one the other in their doctrine alſo; but tell me (I pray) is there yet any thing els whereby we may Iudge that they were papiſts in the faith alſo?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O yes, for I ſcarcely know any thing exerciſed in papiſtrie which may not be found amongſt them. They adminiſter the L: Supper upon an Altar, and they muſt receive it kneeling, they adminiſter Baptiſme out of a font, with a croſſe on the fore head of the childe, they have had that forme of confirmation whereby the Bishops muſt conſecrate the children, they have made mar<g ref="char:EOLhyphen"/>riage
+<pb n="15" facs="tcp:117428:13"/> purely Eccleſiaſtical as depending on the bishops who have forbidden Mariage at ſome certaine times, and almoſt half rhe year, and unleſſe their conſent be gotten either by favour or mony, none muſt Marry, yea ſome Clergie-men amongſt them may upon no con<g ref="char:EOLhyphen"/>dition Marry tho it be againſt the mindes and allow<g ref="char:EOLhyphen"/>ance of their parents and friends. They have cauſed the Holy dayes to be more preciſely obſerved then the Saboth, forbidding all work therin upon great pe<g ref="char:EOLhyphen"/>nalties. They pray over the dead. They make women after childbirth to appear in the church with white conſecrated garments, and then they are purified; and many more ſuch like things according to the papiſts inſtitution, are very preciſely enjoyned by order from the Bishops.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You move my heart, ſo that I am at the Higheſt pitch, to hear ſuch things of the goverment of Bi<g ref="char:EOLhyphen"/>shops. I have alwayes thought England to be the moſt reformed land in the world, becauſe I have ſeen ſo ma<g ref="char:EOLhyphen"/>ny excellent bookes that were penned in England a<g ref="char:EOLhyphen"/>gainſt all ſuch popish inſtitutions &amp; for the advancing of the doctrine of ſalvation and the purity of worship; and therefore I can not enough wonder, that ſo many unclean things should bear ſuch ſway there.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It makes you wonder, and it hath made us many times exceeding ſorrowfull, and to fear (unleſſe God ſpeedily prevent it) that we should shortly ſee all our land papiſts, which we may perceive by their generall bent that way; for in the univerſities they began open<g ref="char:EOLhyphen"/>ly to defend, that we muſt pray for the dead, yea it was preached in London at Pauls Croſs, there are bookes written of it, as alſo that the Pope is not that Anti<g ref="char:EOLhyphen"/>chriſt, that men may very well be ſaved in the papish
+<pb n="16" facs="tcp:117428:14"/> Religion as the Arch Bishop made it manifeſt to the Queen; therefore he hath forbidden to pray for her any more, that God would convert her, and open her eyes as being a Papiſt. They have publikely taught, that men may be ſaved by their good workes, and that with the approbation of the Arch biſhop, as from hence may appeare, when he peruſed the Lithurgie of the Scots in the place concerning good workes, it ſtood that they were not <hi>cauſa regnandi</hi> the cauſe of our ſalva<g ref="char:EOLhyphen"/>tion, but <hi>via regni</hi> the waye to ſalvation, which he cau<g ref="char:EOLhyphen"/>ſed to be put out, and willed them to exhort the people to good works ſimply, without ſuch diſtinctions, where hence we might eaſily perceive what he bare in his buckler, as he hath alſo approved the foreſaid bookes, and by all meanes countenanced the pen men therof. From all which it cleerly appeareth, that they were right Papiſts both in faith and doctrine.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>This cuts deepe, and is ſomething more than Caeremonies: by ſuch ſtalking we often ſee that the catt leaps quite out of the ſack, and that they were al<g ref="char:EOLhyphen"/>together Papiſts, and would have made the whole land papiſts. They muſt without doubt have had great cor<g ref="char:EOLhyphen"/>reſpondence with the papish Clergie that have ſo in<g ref="char:EOLhyphen"/>fected them.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You have read right, for it hath bin long obſer<g ref="char:EOLhyphen"/>ved, muttered, and in the end come to light by a cer<g ref="char:EOLhyphen"/>taine Ieſuit Tho: Abernen a Scottish gentle-man, who being by God wonder fully converted, hath diſco<g ref="char:EOLhyphen"/>vered how that there was great correſpondence held betweene the Arch bishop and the Ieſuits in England and Scotland, yea betwixt him and the Pope, writeing letters to and againe to each other on this ſubject, what might be the beſt way to make England Papiſts.
+<pb n="17" facs="tcp:117428:14"/> In which buſines, himſelf was imployed; ſo that he can ſpeake by experience.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You have made me ſuffitiently vnder ſtand and believe, that the moſt Bishops and their adherents intended to make England papiſts, but that would have coſt hot water, for the commonaltie of England (as I have heard) are exceeding zealous in Gods ſervice, and well inſtructed in Religion, and therfore they could not by that meanes have gotten the maſterie.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>'T is verie true, that in England (by Gods mercy) there have beene, and are many Godly, honeſt, well diſpoſed preachers and members, who would have ſtood for the truth unto bloud: but theſe Bishops have had divelish practizes by little and little to falſifie the doctrine, and root out godlynes; wher by they doubted not, but that they ſhould have attained their purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I pray lett me once heare, what they were.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>They have had divers, beſides their bringing in of the outward forme of papiſtrie in all places, that ſo all might be acquainted with it, as I have tolde you be<g ref="char:EOLhyphen"/>fore. They have alſo ſtrip't all the aſſemblies of their faithfulleſt preachers, which they have degraded, im<g ref="char:EOLhyphen"/>priſoned, banished, or ſo perſecuted, that they were faine to forſake the land, and flye into New-England or other lands: and in ſtead of Godly, zealous, learned, deſired preachers, have thruſt in to their places unru<g ref="char:EOLhyphen"/>ly, ignorant, doboisht, infected perſons, which were either Arminians or partly papiſts, that ſo they might bring the people to ignorance, and ungodlie life, and that ſo they might be able to frame them to what doc<g ref="char:EOLhyphen"/>trine they liſted.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Well, thoſe were lamentable workes, to ſilence lawfull Preachers without cauſe, that is to touch the
+<pb n="18" facs="tcp:117428:15"/> Lords anoynted, the apple of his eye, that is openly to advance the kingdome of the divell: they muſt ſurely have had ſome pretence, for I cannot imagine that they have done ſuch things without orderly proceeding.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It ought indeed ſo to bee, but their will was a law, and they have taken for a pretence, their diſſobe<g ref="char:EOLhyphen"/>dience againſt their popish canons, becauſe they would not ſubſcribe to, and obſerve all thoſe fore mentioned things; therfore they have thruſt them out: In former times they made ſale of ſubſcription, and wincked at many honeſt and learned preachers, but ſome yeares ſithence they would excuſe noe man, and when any ho<g ref="char:EOLhyphen"/>neſt and diſtreſſed preachers, not knowing what was beſt to do whither to forſake their church for the in<g ref="char:EOLhyphen"/>ſtitutions, or to condiſcend therunto, that they might remaine by their churches, and preſerve them from the clawes of ungodly preachers, then were they not content with the ordinarie ſubſcription to the olde Caeremonies, but have ſo long burthened them with new, till that they could not in conſcienc yeeld there<g ref="char:EOLhyphen"/>unto: then have they entered their action, and juſtled them out, not here and there one, butifie and ſixtie, yea ſome hondreds in a ſhort time, without mer<g ref="char:EOLhyphen"/>cie, or hope of reſtauratio<g ref="char:cmbAbbrStroke">̄</g> not withſtanding the earneſt ſolicitation of their aſſemblies, the requeſts they put up the guifts they preſented, as being famous, learned prea<g ref="char:EOLhyphen"/>chers, that had great audience, were beloved of their congregation, and had wrought great edification in their places, for ſuch there was no hearing, yea though whole ſhires came upon their knees, with teares in their eyes, in ſo much that ſometimes they have wrung tears from the King himſelf to heare<g ref="char:punc">▪</g> their grievous la<g ref="char:EOLhyphen"/>mentations for the want of their faithfull ſervants,
+<pb n="19" facs="tcp:117428:15"/> begging for the glory of God, and the ſafetie of their ſoules, that their preachers migt be given them againe, yet they could not prevaile, the King ſent them to the Bishops, and that was to knock at a deaf mans door: and the ſtones ſhould ſooner be moved, than they.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You make me weepe for the pittifull condition of ſuch churches; how could God be ſo long ſuffering as not to hear ſuch teares? O what a curſe have ſuch Bishops pulled on their own heades? God hath ſeene it, and will regenge it, how could the devill, have dealt worſe? but have they uſed this crueltie againſt the Preachers onely?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O no, for after they had deſtroyed the Sheep<g ref="char:EOLhyphen"/>herds, then like ravening wolves, they have alſo de<g ref="char:EOLhyphen"/>ſtroyed and diſperſed the sheep: for they have daily cited to their ſpirituall Courts the honeſteſt, godlieſt men, and women, married &amp; unmarried, accuſed them that they would not follow their Ceremonies, that they went to hear, here &amp; there out of their Parishes, where they knew was a good preacher, held faſt dayes by themſelves, and came together to repeat the ſermon, to read, or ſing, and pray. Theſe were cauſes ſufficient to impriſon the people by heapes, and to let them ſit there, and conſume, to ſeize upon their goods, to draw them to themſelves, ſo ruinating many housholds, wherby many thouſands were compelled to forſake the land, and to wander into ſtrange countries.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>O the miſerable condition of the honeſt inhabi<g ref="char:EOLhyphen"/>tants of England! they have been there as bad as un<g ref="char:EOLhyphen"/>der the Inquiſition, yea worſe, for this is exerciſed a<g ref="char:EOLhyphen"/>gainſt them by thoſe, that ſay they are of the ſame Re<g ref="char:EOLhyphen"/>ligion with them, and the Curats for their ſoules. O what reaſon have we to thank God, that we dwell in
+<pb n="20" facs="tcp:117428:16"/> ſuch a freeland, where no man is compelled or troubled for his conſcience! we know of no ſuch perſecution, thanks be to God, and God keep us from it; for our na<g ref="char:EOLhyphen"/>tion should never endure it, but ſtand up, and quickly hunt ſuch inſtruments out of doors, as they did that troop of Shavelings that dealt ſo with the inhabitants in the beginning of the Reformation. It was lately ſeen in the <hi>Hague</hi> how the inhabitants could ill endure that any man should be over burthened, each drew it to himſelf, and then appeared firſt the lovelineſſe of liber<g ref="char:EOLhyphen"/>ty, and the ſidelity of the Netherlanders to each other, that alwaies take compaſſion on the oppreſſed, and venture their goods and bloods therfore.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It is a commendable thing to relieve the oppreſ<g ref="char:EOLhyphen"/>ſed, and reſiſt the oppreſſors, ſo it be orderlie perform<g ref="char:EOLhyphen"/>ed; But alaſs? what could we do! the Bishops were too mightie, and our nation is alſo exceeding ſlavish under thoſe that are mightier than they; there was great murmuring at it, the will was good, to reſiſt ſuch tyrans, but they could not ſee where it should begin, never<g ref="char:EOLhyphen"/>theleſſe, they thought that it would break out into a bad iſſue one time or other.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Vndoubtedly, God will from ſome place or other give a good iſſue, as he did in the beginning of our per<g ref="char:EOLhyphen"/>ſecution: God wants no means either to punish a Na<g ref="char:EOLhyphen"/>tion, or to deliver them out of their diſtreſſe, yea when the danger is at the higheſt, and the water at the brim, then God takes moſt pleaſure to manifeſt his power. But tell me (I pray) more particulerly, what wayes the Bishops have further proceeded in, to bring the papish Religion into England?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Beſides that ſpoiling the Kingdom in all places of their faithfulleſt Preachers, and thruſting in others
+<pb n="21" facs="tcp:117428:16"/> according to their own humour in their places, or lea<g ref="char:EOLhyphen"/>ving the church unprovided, giving them onely a reader that read their Injunction in the church out of the ſervice book, ſo that great circuites of land of 30 or 40 miles in compaſſe had ſcarce two or three ſermons in a whole year, to the unſpeakable ſpoil of the people, who nevertheleſſe muſt bear the burden of Gods wor<g ref="char:EOLhyphen"/>ship, and pay out of their Parrishes, two, three, or foure hundred pounds ſterling <hi>per annum</hi> according to the quantity of the Parish, unto ſuch laſie and idle bellies that had the name to be their preachers. Beſides this wicked practiſe (I ſay) they have uſed many other mea<g ref="char:cmbAbbrStroke">̄</g>s to bannish wholy all ſaving knowledge of the truth, out of the Kingdom, that ſo they might the better draw the people unto poperie.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Loving friend! what do I hear? have they ſo took care for ſowls, as to feed them onely with humane Tra<g ref="char:EOLhyphen"/>ditions, without the preaching of the word of God the hey and graſſe, and yet were ſo shameleſſe, as to take ſuch great wages of the people; God will revenge it. But proceed to shew me, what have been their further practiſes?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>They had a thouſand tricks to blow out that zeal and practiſe of Godlines, which had been exceedingly inflamed by ſo many excellent preachers for an exam<g ref="char:EOLhyphen"/>ple to the world; and to ſet up in the place thereof an Athieſtical liberty, and worldlineſſe, to which end they have with-ſtood the means of ſalvation, and ſet the contrarie readie for the people: as when they brought into contempt the ſanctifying of the Sabboth by ex<g ref="char:EOLhyphen"/>ceeding ungodly practiſes, for they knew ſo far to a<g ref="char:EOLhyphen"/>buſe the power of the King, that they have ſtirred him up to give out a Proclamation in the year 1633. where<g ref="char:EOLhyphen"/>in
+<pb n="22" facs="tcp:117428:17"/> he required that all his ſubjects should have liber<g ref="char:EOLhyphen"/>tie, ſervants againſt the will of their maſters, and chil<g ref="char:EOLhyphen"/>dren againſt the will of their parents, to ſpend the Sab<g ref="char:EOLhyphen"/>bath (after ſervice) in all manner of recreations, and danceing, men and women going to playes, in running, shooting, bowling, ſtool-ball, and all to this porpoſe that they might change the repeating of ſermons, and other Spirituall exerciſes into ſuch idle, wanton ſports, and that by Proclamation, as if men were not ſufficient<g ref="char:EOLhyphen"/>ly of themſelves inclined to profane the day of the Lord by ſuch vanities.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Is it poſſible? knew they ſo far to miſlead the king as that he should give out a Commandement directly contrary to the Command of God, wherein he willeth that the Sabbath should be ſanctified and ſet a part to all ſuch exerciſes which tend to the proſperity, not only of the bodie but of the ſoul of man. You muſt ſurely have given ſtrange attention, when you heard ſuch things proclaimed, for I have alwayes heard, that the English make great conſcience of the Sabbath, yea when they went in the ſtreets of the City, they ſaw not the leaſt work done, or any wa<g ref="char:cmbAbbrStroke">̄</g>tonneſſe vſed: but that in all houſes the Sermons were repeated, pſalms ſung, and profitable queſtions propounded: So that all under<g ref="char:EOLhyphen"/>ſtanding men did judge, that the ſanctifying of the Sab<g ref="char:EOLhyphen"/>bath, was the principall reaſon of Gods bleſſing and mer<g ref="char:EOLhyphen"/>cie over England. There is great profanation of the Sabboth in our land, by working, playing, riding ſtool-ball, diceing, drinking, wreſtling and runing but (God be thanked) they are not done by vertue of any command of our Govervours, but contrary thereunto; ſo there be many excellent Proclamations againſt the prophana<g ref="char:EOLhyphen"/>tion of the Sabboth in many Provinces come forth:
+<pb n="23" facs="tcp:117428:17"/> ô that God would graunt, they might be well main<g ref="char:EOLhyphen"/>teyned.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Yea, ſo is it come to paſſe amongſt us, and yet the Bishops are ſo shameleſſe, that whereas they ought to have ſtood for Gods right, and to have informed the King better, they have cauſed all preachers to read the ſame Proclamation out of the pulpit to all the people, and to exhort them to obſerve the ſame againſt the fourth Commandement: thoſe that have refuſed have been depoſed, to more then an hundred in number, not with ſtanding that the Dean which was ſent by the Bi<g ref="char:EOLhyphen"/>ſhops to ſee this executed in all churches a little without London, fell dead from his horſe for a warning: yet they, could there by be brought to no remorſe, but went fore<g ref="char:EOLhyphen"/>ward with the buſines.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>O how inſt are Gods judgments; and how ſottish are the hearts of men, if God mould them not? It was ne<g ref="char:EOLhyphen"/>ver heard; that preachers were commanded to deliver from the pulpit that which cleerly and evidently oppo<g ref="char:EOLhyphen"/>ſeth the command of God: thoſe that have refuſed to do it, have done like Chriſtians. But what more practices had they?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>They have alſo forbidden to preach twiſe on the Sabbath, under the pretence of Catechiſing, which was then ordeined, appointed, and directed, to inſtruct the children, and teach them the traditions of the Pope, or Bishops. They have to their power forbidden the prin<g ref="char:EOLhyphen"/>ting of all good books, and contrarily ſuffered to be printed all Arminianish, Papish, vaine books of Ama<g ref="char:EOLhyphen"/>dis de <hi>Gaule,</hi> and of Commedies, to 40 thouſand in a yeare: They have alſo ſuffered Reliques to be ſolde openly, yea they have been ſent from the Pope to the Arch-Biſhop himſelf who knew well how to make his profit by them.</p>
+               <pb n="22" facs="tcp:117428:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:117428:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:117428:19"/>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Well! thoſe were great wickedneſſes, which God will ſeeke, and finde. How ſoever it goeth<g ref="char:punc">▪</g> alſo very bad amongſt us in thoſe things (for there is here in our land alſo great libertie to print all unfeemlie. hurtfull, heretic<g ref="char:EOLhyphen"/>all bookes) yet the honourable Magiſtrates of Amſter<g ref="char:EOLhyphen"/>dam have exceeding worthilie cauſed to be burned cer<g ref="char:EOLhyphen"/>taine Socinian books, and have hindered the players, and dancers on the ropes (which follow fayres and Mark<g ref="char:EOLhyphen"/>ets) from playing; oh that it were in all places imitated: yet 't is ſo, that here in our land there bee ſome papish booke-ſellers that openly ſell nothing but papish bookes of <hi>Breviaries, Maſſes, Roſaries, Legends,</hi> and publikly hang out <hi>Idolatrous Images, Crucifixes, Beads, Paternoſters, Agnus Deis, &amp;c.</hi> without hinderance; which is to be feared wil bring Gods judgments on us; nd although (by Gods bleſſing) it is not ſo yet ordered amongſt us, that good bookes are forbidden: yet there are few printed, becauſe there is ſo little vent, while all hands are full of vain, unfit, uncivil, venemous works, that hinder the<g ref="char:cmbAbbrStroke">̄</g> from reading good ones. But tell me what are the deceipts the Bishops have uſed to bring in the Popish Religion?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>As it appeareth from that which hath been ſaid that the Bishops and papiſts underſtood one the other in all things well enough, ſo have they given them great li<g ref="char:EOLhyphen"/>bertie in all places, not executing the Proclamations, and orders againſt them; but have connived at their aſſem<g ref="char:EOLhyphen"/>blings, Idolatrous exerciſes, abſence from ſermons in all places: ſo that England became full of Ieſuits, and all manner of Seminaries, that have ſo done their indeavor to turn England from their Religion, that they have heartened, or won many thouſands to the papish reli<g ref="char:EOLhyphen"/>gion, to the unſpeakable weakening of our ſtate, &amp; trou<g ref="char:EOLhyphen"/>ble of the reformed, that were (where they were mightie) oppreſſed by them, yea muſt ſuffer great diſtreſſe, without
+<pb n="25" facs="tcp:117428:19"/> being heard therin, when they came to complaine of it to the clergie, where the favour not withſtanding was con<g ref="char:EOLhyphen"/>tinually on the papiſts ſide.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>There hath been then a great fall in England, for I have allwayes heard, that every man was compelled to come to church, and attend upon Gods ſervice, ſo that none were excuſed, no not the greateſt; and that there were very ſtrict orders againſt the Papiſts made in divers Parliaments, ſo that I heare wel that it hath gone amongſt you as it doth amongſt us, for (the more is the pittie) there were many times ſtrict Proclamations read againſt the breaking in of papiſtrie, but notwithſtanding papiſtrie is openly ſet up in the middeſt of us, for they have their formall churches with ſtooles, benches, Altars, ovals, quiers, Candelſticks, cupps in ſundrie cities, as alſo in the countrie, and they ſay ſervice at the ſound of our bels, going openly thereunto, the Prieſts are knowne amongſt us: preaching againſt this goverment, that it is unlawful, exhorting the people to helpe the King to his land: will abſolve no man in shrift, but ſuch as hold the king for the lawfull Lord of the land, goe publike proceſſions with an hundred at a time, place crucifixes in the church-yards at the graves of the dead, come to torment the people of our religion upon their death-beds with their Idol and oyle. Yea they have their whole church-goverment amongſt us, and have divided the whole land, amongſt Bishops, Arch-Biſhops, Deacons, Arch-deacons, every one knowing his Iuriſdiction: they have alſo given all the civill offices unto certaine perſons, and when they dye, then they confer them upon others againe upon hope, that though now they be but titular, yet <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat once they shall have the reall poſſeſſion therof<g ref="char:punc">▪</g> So that if any change through any ſtir or other waies should come, (which God prevent) each should know his place and
+<pb n="26" facs="tcp:117428:20"/> office both in Eccleſiaſtical and civil affairs, that ſo they might at once over rule the land.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You wondered that it went ſo in England, but I wonder exceedingly that it should go ſo amongſt you; for while you give ſuch liberty to the papiſts, you put the ſouls of the inhabitants, yea the whole church and land in a ſcale, and ſuffer your ſworn enemies, that are bound by oath to the King of Spain and the Pope, to ſet up a go<g ref="char:EOLhyphen"/>verment in your goverment: Who (if it should go ill but in the leaſt, or that there were any likely hood to make the King of Spain maſter) would ſtrait fall off: ſo that you foſter an Adder in your boſoms.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You are in the right, and all good Patriots under<g ref="char:EOLhyphen"/>ſtand it ſo; it hath alſo ſundry times appeared to be ſo, when the land was in any trouble, as when the enemie was in the valle, all papiſts prickt up their ears, ſpake ex<g ref="char:EOLhyphen"/>ceeding bouldly, ſaid openly out, now shortly it shall be our time: and the further the enemy brake into the land, the boulder they were; as alſo when we loſt Schenk-Scans, and that the enemie meant thereby to come in, the countenances of the papiſts were then cheerfull, and yet when there cometh any bad newes, you may eaſylie perceive with which fide they hold, although peradventure they should be no more the better for it than wee, as it appeares in manie places, yet their hate is ſo great that they would willinglie wish to perrish them ſelves, ſo that we might but perrish with them: yea they are yet ſo bould in ſome places, that when any godly preachers are ſomthing zealous to bridle their inſolen<g ref="char:EOLhyphen"/>cies, they dare ſend word to ſuch perſons, that they should conſider how it now goes in Ireland: yet not with<g ref="char:EOLhyphen"/>ſtanding theſe deadly enemies of our ſtate are winked at becauſe they blinde the eies of the Officers and great ones, with great guifts, and yearlie penſions, as they them
+<pb n="27" facs="tcp:117428:20"/> ſelves do ſay, that they are beholding to no man for their freedome but their monie; by which means they cannot be effectuallie proceeded againſt, notwithſtanding thoſe Remonſtaunces given againſt them by the church, ſo that the Synods were neceſſitated to leave it to God, and proteſt before all the world, that they would be free of the ſowles by this meanes loſt, having done according to their places what they could, as alſo from that diſtruction which shall certainlie come upon the land therby, if not ſpeedily prevented. Whereunto I pray God the Lord to ſtirr up all Corporations and their particuler members to take the redreſſe of theſe thinges into their hands; and not to let it hang upon the officers, or a few per<g ref="char:EOLhyphen"/>ſons as it is here, and thereunto the great advantage of this cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Yea, I heare then that thinges go ill, not onely in England; but that in this matter it ſtands ill enough a<g ref="char:EOLhyphen"/>mongſt you alſo, although you have no Bishops to let ſuch miſchiefs break in: but hold this for certaine, that the whole heap of papiſts, if they can maſter us? and it hit right, shall be quicklie a tip toe againſt you: for I have latelie ſeen a letter out of the Netherlands, to one of our papiſts, which earneſtlie ſtirreth ours up, to uſe all meanes poſſible, to become maſters, and to advance poperie, aſſuring them that they with the helpe of Eng<g ref="char:EOLhyphen"/>land should be here ſtrong enough to make them ſelves maſters both of land and Religion; therfore their break<g ref="char:EOLhyphen"/>ing in, groweth, and increaſe of ſuch is not to be ſlight<g ref="char:EOLhyphen"/>lie eſteemed, for they can all wayes at a ſtart be ſecon<g ref="char:EOLhyphen"/>ded by your neighbor enemies, if they but make them ſelves maſters of one paſſe or other, ſo as they can not do with us, becauſe they muſt fetch all aſſiſtance from beyond Sea.</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:117428:21"/>
+               <speaker>N.</speaker>
+               <p>You ſay right, and I know not how our goverment is ſo beſotted that they do not better conſider it, for e<g ref="char:EOLhyphen"/>very one knoweth that there cannot be a more hurtfull nor dangerous enemy, than that within, eſpecially if it be one with a powerfull enemy without: and therefore God open all eyes to ſee it. You have now told me much concerning the deſigns of the Bishops, and the means they uſed to bring in papiſtry, but tel me now once, wher<g ref="char:EOLhyphen"/>in the malignant Courtiers, and other infected ſtateſmen were the cauſe of the ſtirs in England.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You well remembred what I told you in the begin<g ref="char:EOLhyphen"/>ning, that the Bishops and the malignant Politiks, beſides the papiſts have occaſioned all our heavineſſe; for it is certain, that the Bishops have ſpoiled all in the church, and together with the Politiks have turned all things up ſide down in the common weal alſo.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>How underſtand you that, together with the Poli<g ref="char:EOLhyphen"/>tikes, I think not that the Bishops had alſo the care of worldly matters.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>How! have you not known that? O yes, the Bishops have had not onely eccleſiaſticall, but Civill offices alſo, &amp; have been alſo privy-counſellers, Treaſurers, Keepers of the great Seal, and I know not what; therefore they have been a member of the Parliament in the upper houſe: yea they have ſpent the moſt part of their time in politick affairs, and had ſo far ingroſſed them, that ſcarce any man without their aſſiſtance, could attaine a civill office.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I hear you, but I thought that the preachers, much more the Bishops, had ſo much to do in their own offi<g ref="char:EOLhyphen"/>ces, that it well required the whole man, and therefore that they had no time to trouble themſelves with ſtates matters. But tell me, (pray) how had the Bishops and
+<pb n="29" facs="tcp:117428:21"/> Politiks contrived it, to bring all goverment into their hands, to finish their deſſigne?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>To this purpoſe they had conceived ſtrange wind<g ref="char:EOLhyphen"/>ings, and firſt they put it in to the kings head, that he ought to be an abſolute Soveraigne, not to be under any, according to the example of France, and that they would bring him thereunto, by means of the Eccleſiaſti<g ref="char:EOLhyphen"/>cal perſons, which they had now at hand in all places, and ſate in the ear of the people. When they had made the King to relish this to make him confirm all their deſign, then they made him preſently believe that all their do<g ref="char:EOLhyphen"/>ing tended thereunto.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Was the King then no abſolute King, ſo that he might do all that he would, not having any man above him?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>In no wiſe; for Kings are limited by laws, ſo that they can make no new laws, nor lay any impoſitions on their ſubjects, nor go to war with any, without the con<g ref="char:EOLhyphen"/>ſent of the Parliament, els the inhabitants are not bound thereunto; yea they are lyable to punishment, if they pay any impoſitions or ſubſidies to the king upon his par<g ref="char:EOLhyphen"/>ticuler order, or will; and thoſe that counſil the King therunto, or aſſiſt him therin, are guilty of high treaſon.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>What is the Parliament, under which the King ſtands alſo?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It is the higheſt aſſemblie of the Kingdome, which conſiſteth of the King, Dukes, Earles, Barrons, Bishops, &amp; the Commons, which is two perſons out of every shire, and chief citie, deputed with abſolute power, that toge<g ref="char:EOLhyphen"/>ther they might redreſſe the enormities of the kingdom according to the lawes, and to ordeyne new laws and impoſitions to the advantage of the King or kingdome, without any compulſion of votes; which aſſembly is ga<g ref="char:EOLhyphen"/>thered and diſſolved by the King.</p>
+            </sp>
+            <sp>
+               <pb n="30" facs="tcp:117428:22"/>
+               <speaker>N.</speaker>
+               <p>That is a ſtately and powerfull aſſembly, if they underſtand themſelves, and of great might, to redreſſe the greateſt abuſes, and to aſſiſt the King with great ſums of mony. It were to be wished, that we had ſometime alſo ſuch Parliaments, as in former times the aſſemblie of the ſtates generall uſed to be, before that there was a Parliament companie of ſtates generall ſet up; thereby might great abuſes amongſt us alſo be reformed, under which now, 't is to be feared, we shall ſinck, But have the great ones liked this Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>That you may eaſilie imagine, O no; the Arch-Bishop, and all Courtiers, and thoſe that were in favour with the King, have alwayes withſtood it, many yeares, delayed it, or when it was aſſembled, and that it began to touch the ſoars, and to ſearch out the bad practiſes of the great ones, then knew they how to order the King, that he from time to time hath cauſed the Parliament to break up: and now the laſt time in May 1640. not withſtanding that the King and ſtate was in an exceeding great diſtra<g ref="char:EOLhyphen"/>ction, by reaſon of great ſtirs, that were in all places of the kingdome.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I hear it well, there is much-adoe in all places; it goes ſo with us alſo, that they that know how to make themſelves maſters in the Provinces, they hinder as much as they can, that the ſtates may not come together, or when they are together, they ſet one city againſt the o<g ref="char:EOLhyphen"/>ther, caſting many things in amongſt the members, that ſo they might not underſtand one another; and ſo depart a ſunder without effecting any thing, to the higheſt diſ<g ref="char:EOLhyphen"/>commodity, burthen, trouble, dishonour, and ſpoil of the Provinces, and unſpeakable diſavantage of many that it concerneth, that can procure no expedition from the ta<g ref="char:EOLhyphen"/>ble, which in the end (if the members be not wiſe to un<g ref="char:EOLhyphen"/>derſtand one an other to uſe their own freedome, with<g ref="char:EOLhyphen"/>out
+<pb n="31" facs="tcp:117428:22"/> depending upon theſe or any) will bring all into con<g ref="char:EOLhyphen"/>fuſion, as you ſaid it was in your three kingdomes. But tel me what were the ſtirs that were in all places of the king<g ref="char:EOLhyphen"/>domes?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Unmeaſureable great, and dangerous; for Scot<g ref="char:EOLhyphen"/>land was in arms, we had a leager in the field on the fron<g ref="char:EOLhyphen"/>tiers of Scotland, the King was ſet on to fall upon the Scots, and they practiſed daily to ſet the two Kingdoms together by the ears.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>But tel me (pray) whence proceeded this diſunion? for the two Kingdomes have one King, one Religion, and have till this time lived in peace; what hath brought forth this diſquiet?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>This diſunion hath been a long time in breeding by the Biſhops and Papiſts, whoſe deſigne was not onely the changing of Religion in England, but alſo in Scot<g ref="char:EOLhyphen"/>land, yea to thruſt in all their ſuperſtitions into Scotland firſt, as being the weaker nation, and ftom thence into England; to which end they have (by little and little) thruſt in Bishops there againſt the minde of the King<g ref="char:EOLhyphen"/>dome, which they firſt pretended should but ſerve to keep good order in the Church, without having ſuch au<g ref="char:EOLhyphen"/>thoritie over the church, and Eccleſiaſticall perſons, as in England; but growing by little and little in authoritie, &amp; power, ſo 't was, that they indeavoured alwaies to have as great authoritie in Scotland as in England, wherein they were heartened by the Biſhop of Canterbury, and (through his advice) by the King alſo, and in the end ſet on work to thruſt in the Service-book (that is the Li<g ref="char:EOLhyphen"/>thurgie) of England into the church of Scotland, aug<g ref="char:EOLhyphen"/>mented with many additions, ſome openly, and ſome co<g ref="char:EOLhyphen"/>vertly oppoſing the reformed Religion, together with all thoſe former papiſh Caeremonies that were before in Eng<g ref="char:EOLunhyphen"/>land
+<pb n="32" facs="tcp:117428:23"/> which firſt of all began to be ſet on work when the King was in Scotland to be crowned.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>How have the Scots behaved themſelves therein? for they have been alwayes famouſed for great Prote<g ref="char:EOLhyphen"/>ſtants, and lovers of the puritie of worship, ful of courage to mainteyn rhe liberties of the Kingdome againſt all oppoſers.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The Scots ſo ſoon as they were aware of theſe no<g ref="char:EOLhyphen"/>velties, and that they were propounded by the king him<g ref="char:EOLhyphen"/>ſelf in their Parliament, ſo to thruſt in ſome beginning thereof into Scotland, then have all the gentrie and bur<g ref="char:EOLhyphen"/>geſſes cried it down in the preſence of the King, and perſiſted therein, notwithſtanding that the King took it very diſcourteouſly and manifeſted the ſame by his ſud<g ref="char:EOLhyphen"/>dain diſcontented departure out of the Kingdome, com<g ref="char:EOLhyphen"/>manding his Counſell to thruſt in ſuch church orders as he had given them in charge, by authority.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Durſt the Kings counſell attempt ſuch a thing, againſt the minde of the gentrie, and Commons; for they might well fear, that they were leſſe able to bring ſuch a thing to paſſe, and now againſt the reſolution of the Par<g ref="char:EOLhyphen"/>liament, which the King himſelf could not accomplish.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The councill was exceedingly animated by the King, and ſpecially by the Bishops, as well of Scotland as of England, to go forward courageouſly herein, not to fear; with promiſe of aſſiſtance, and punishment upon all thoſe that should refuſe; where upon the Councill with the adviſe of the Bishops of Scotland, and command of the Arch-Bishop of Canterbury, did augment the Ser<g ref="char:EOLhyphen"/>vice-book of England, and mingled it with a great deal more poiſon than in England which together with the five ceremonies of England they decreed to thruſt into the church by publike Proclamation, declaring thoſe preachers to be fallen from their obedience that should
+<pb n="33" facs="tcp:117428:23"/> oppoſe it, and ſeverely to punish all ſuch inhabitants, that would not ſubject themſelves to theſe inſtitutions.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>This was a bould attempt; but what was the iſſue?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Preſently thereupon it came to paſſe, that a great number of Comitees out of the church and ſtate addreſ<g ref="char:EOLhyphen"/>ſed themſelves to the high Counſil, and divers times de<g ref="char:EOLhyphen"/>ſired, that ſuch a reſolution might not go forth, but that they would leave the church and church-men to their antient cuſtoms, without thruſting in of novelties; other<g ref="char:EOLhyphen"/>wayes the whole kingdome was prepared to come into a great uprore, which exceedingly diſtracted the Counſil; but being ſet on by the Bishops, they went forward, to the great diſcontent of the Comittees, and their chiefs; whereupon the gentrie, the particular Magiſtrates, and the Eccleſiaſticks, began to bethink themſelves of ſome means to reſiſt this evill; and to this end reſolved to bind themſelves by oath to maintein (with their eſtates and lives) that old Covenant, concerning the maintenance of Religion, forme of doctrine, and goverment, as it hath been alwayes maintained in Scotland. Which Co<g ref="char:EOLhyphen"/>venant was confirmed and ſubſcribed by all the inhabi<g ref="char:EOLhyphen"/>tants of Scotland, except thoſe that were papiſts, or held with the Biſhops faction.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>That was a faſt Bond, and exceeding fearfull; for by that means the ſtrength of thoſe that would ſtand for Religion, againſt the popish inſtitutions, did preſently appear. But what way could the Counſill together with the Bishops take to mainteyn their reſolution?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>They were exceedingly diſtracted hereabout; but their fury &amp; zeal to the popish inſtitutions, was ſo great, that they would hold firmely this point againſt the whole Kingdome: &amp; to this end they perſwaded the King, that his prerogative was ingaged, that he mainteyn his pur<g ref="char:EOLhyphen"/>poſe, uſe all his ſtrength therein; yea though he should
+<pb n="34" facs="tcp:117428:24"/> compell them thereunto by force of arms, adviſing him to this end to inſure all the Caſtels &amp; forts of Scotland, which was in like manner put in practice; in the mean time they in Scotland went forward to thruſt in the Ser<g ref="char:EOLhyphen"/>vice-book and the five Caeremonies depoſing and pu<g ref="char:EOLhyphen"/>nishing many that were againſt it: ſo that there fell out great ſtirs and heavy oppoſitions, in all places; which by little and little increaſed more and more, bred great di<g ref="char:EOLhyphen"/>ſtruſt againſt the King; and ſo much the more when it was found, that he cauſed arms and amunition to be ſecretly brought into the Caſtels where he had his governours.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I hear wel; there was a bad fire kindled, which could not ſo quickly be quenched; but how went it at laſt? did no man put himſelf upon the pikes to preve<g ref="char:cmbAbbrStroke">̄</g>t this threat<g ref="char:EOLhyphen"/>ning evil, to informe the King of the danger he should bring his Kingdomes into, and that for a few papish Cae<g ref="char:EOLhyphen"/>remonies?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>O yes; divers did ſeek to diſwade the King; but in vain: for either they could have no hearing, or els the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>shops knew ſtrait ſo to bewitch the King that he belie<g ref="char:EOLhyphen"/>ved no man, but accounted them all for enemies to his prerogative, that counſilled him to the contrary: where<g ref="char:EOLhyphen"/>by the common governours of Scotland were neceſſi<g ref="char:EOLhyphen"/>tated, for the mainteynance of their freedomes and de<g ref="char:EOLhyphen"/>fence of themſelves, to come into arms under Generall Leſly, with ſuch a Generall concourſe of all the people, that every one alike willingly offered himſelf therunto, bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h with his perſon and alſo his money, which in great abundance was given, for to pay the ſouldiers.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>How did the King take this? for it ſeemeth much that a Kingdom should betake themſelves to arms, with<g ref="char:EOLhyphen"/>out conſent of their King.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The King is herby induced, to take up men againſt the Scots; to beſet their havens, to ploclaim their ships
+<pb n="35" facs="tcp:117428:24"/> priſe, and to permit the Duynkerkers to take all ſuch as had no commiſſion from him; ſo that Scotland was ex<g ref="char:EOLhyphen"/>ceedingly diſtreſſed, both by Sea, and Land, which made them reſolve, to take in certain forts: to free their ſea coaſts, to bring their leagers to the frontiers of England: and ſo to begin a formall order of war, not againſt the King but againſt his bad Counſillers.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>So 't is often ſeen, that a great fire cometh of ſmall ſparks. Theſe were ſad beginnings, but how did the king behave himſelf in theſe dangers?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The king did alſo place himſelf in order of warre through the Counſill of the Bishops, who promiſed to pay his leager out of the contributions of the Clergie, ſo that an English leager was pitcht, which together with the king came to the borders of Scotland<g ref="char:punc">▪</g> In the mean time proclaiming the Scots for Rebels, and ſuppreſſors of the kings prerogative; ſo that the two kingdomes ſtood in direct oppoſition, the one againſt the other, yea ſo farre that the king made the greateſt part of the English lea<g ref="char:EOLhyphen"/>ger approach upon the Scots, who incompaſſing the En<g ref="char:EOLhyphen"/>glish, took ſome priſoners and got their ordonance and amunition without blood ſhed; all which they diſchar<g ref="char:EOLhyphen"/>ged, and ſent to the king, to shew that they intended not the dammage of their brethren the English: whereby the English gentry have gotten better experience of the Scots then others had informed them, in reporting that the Scots began this war to enrich themſelves out of the revenues of the English: which then appeared to be con<g ref="char:EOLhyphen"/>trary; and was alſo otherwiſe conceived by the English.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You report ſtrange things unto me; I never read in any hiſtorie, of ſuch civiltie, in thoſe that were toge<g ref="char:EOLhyphen"/>ther by the eares, that they should ſo freelie diſmiſſe one an other; here hence it alſo appeared that the Scots ſought not the blood of their brethren, but their own
+<pb n="36" facs="tcp:117428:25"/> freedome; which without doubt made the English to entertaine a good conceipt of the Scots.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Wee have all in generall ſo conceived it, and our gentrie began to perceive that it was but the worke of the Bishops to adorne their chaire; who knew how won<g ref="char:EOLhyphen"/>derouſlie to lead on the King, to the deſtruction of both his Kingdoms which hath excited the great ones to ad<g ref="char:EOLhyphen"/>viſe the king to make an agreement with Scotland, which was alſo performed upon condition that both the armies should be cashiered the Caſtels reſtored into the hands of the king, and Synode and a Parliament aſſem<g ref="char:EOLhyphen"/>bled, abſolutly to end all differences; where upon there was great joy, &amp; all the former conditions likewiſe per<g ref="char:EOLhyphen"/>formed on the Scots ſide, but not in the leaſt on his Ma<g ref="char:EOLhyphen"/>jeſties behalf.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>This was yet a happy iſſue: but wherin did the king hold his word?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>He did exceeding ſlowly cashiere his ſouldiers, inſured the Caſtels contrary to agreement, 't is true he conſented to the Synode but many waies abridged their freedom by his Committers, which cauſed great jealou<g ref="char:EOLhyphen"/>ſies. For although the king hath conſented to the de<g ref="char:EOLhyphen"/>poſing of the Bishops called in his proclamations againſt the Preachers, and approved their Covenant: yet there was much deceipt under it; for the king did in the mean time ſtrengthen himſelf againſt that partie as well with in as without Scotland, shewing all courtiſies to the Bishops, privily taking in and fortifying certain holds where at every one began to look about him, to take up arms a new, with a purpoſe to come into England to the king, by him to be mainteyned in their freedomes, which exceedingly diſtracted diſtracted the faction in England, and alſo the King.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>That's eaſy to imagine, for the King who is the
+<pb n="37" facs="tcp:117428:25"/> head of the kingdome might eaſily conclude, that a king<g ref="char:EOLhyphen"/>dome divided could not ſtand; and therefore it muſt ex<g ref="char:EOLhyphen"/>ceedingly prick him at the hart.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>I may be the King did well fore ſee the danger, but he was never himſelf, but alwayes lead by others: and therefore they made him believe what they would, per<g ref="char:EOLhyphen"/>ſwading him that the Bishops and their adherents alone could maintein him againſt the Scots, if the King would but let them alone as he hath done, whereupon they held a kind of a baſtard ynode, where all the inſtitutions of the Bishops were approved, to contribute out of the means of the Clergie, to the maintainance of the war a<g ref="char:EOLhyphen"/>gainſt the Scots, which came all toolate. In the mean time the Scots ſeeing their leagers in the land, their havens blocked up, their trading to fail, &amp; their kingdom in danger of ruine, did reſolve to march into England, as alſo they happily did, and overcame <hi>New-Caſtel,</hi> where they fortifyed themſelves, yet without blood (excepta little in the conqueſt) or indammaging any of the inha<g ref="char:EOLhyphen"/>bitants of England, to the wonder of the whole English nation.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>It is alſo greatly to be wondred at, that the Scots durſt enter upon ſo populous a kingdome to come ſo far out of their own country; but it is much more to be won<g ref="char:EOLhyphen"/>dered at, that they knew how to keep ſuch a ſtrict order in their leager, that they should do violence to no man, which is almoſt unheard of, but how could this be clee<g ref="char:EOLhyphen"/>red?</p>
+            </sp>
+            <sp>
+               <speaker>E</speaker>
+               <p>Our whole nation is by this coming in of the Scots yet more confirmed that they intended not to ſpoil England, as the Bishops had accuſed them, but that they were led by Gods Spirit, and intended nothing but their own freedome, and the freedome of England, and the maintainance of the purity of Religion, whereby the
+<pb n="38" facs="tcp:117428:26"/> eyes of our nation were alſo opened to take notice of their oppreſſion under that inſupportable yoake of the Biſhops.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Were not the English exceeding jealous of this in<g ref="char:EOLhyphen"/>vaſion, and did they not indeavour by all means to drive the Scots out of the Kingdome?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>In no wiſe; but (on the contrary) all were glad that ſuch a reformed leager was in England, which gave ſome freedome to many that ſate bowing under the burthen, then alſo a great number of the gentrie went unto the king at York, laying open before him the grievances of the Kingdomes, and alſo of England, in divers notorious inſtances, deſiring that the Scots and they might have ſatisfaction, and that to this end a Parliament might be called, which the king alſo granted, whereupon the Bi<g ref="char:EOLhyphen"/>shops preſently ſent their agents through the whole kingdomes to many hundreds, to procure Burgeſſes to their own minds, by them to hinder all their former pro<g ref="char:EOLhyphen"/>ceedings, and to procure means to fall upon the Scots: which they knew how to effect by the Earle of Straf<g ref="char:EOLhyphen"/>ford in Ireland, where the Parliament had granted many men and divers ſubſidies againſt the Scots, that ſo they might to purpoſe bring under the Scots and the purity of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You report ſtrange things. The Bishops faction did well perceive that it should now come to the point, and therfore they took ſuch pains to get men after their own mindes in the Parliament, but did they effect it.</p>
+            </sp>
+            <sp>
+               <speaker>E</speaker>
+               <p>In no wiſe; although they made uſe of the king himſelf to deſire (in many places) that ſuch &amp; ſuch might be choſen, but the inhabitants would not ſuffer them<g ref="char:EOLhyphen"/>ſelves to be ſo over reached; but as the election of Parlia<g ref="char:EOLhyphen"/>ment men is in the power of the commons, ſo have they choſen none, but ſuch as with whom they knew religion
+<pb n="39" facs="tcp:117428:26"/> and the liberty of the land to be in higheſt eſtimation, and went with abſolute power as their Deputies, ſo that the Parliament being independent in her reſolutions, and having power out of her own head, to make and alter lawes, to appoint impoſitions as great and as ma<g ref="char:EOLhyphen"/>ny as it will, therefore every good man was carefull to ſend conſcionable and couragious men, that could not eaſilie be overcome, either by deceipts or promiſes; but goe reſolved, to ſuffer all thinges rather than to yeeld to any thing that shall be to the leaſt damage of the Inhabitants, as ordinarily divers Parliament men at the diſſolving of the Parliament have beene by the King ſet in the Tower, becauſe they durſt with ſuch li<g ref="char:EOLhyphen"/>bertie reſiſt him in the Parliament, to the advantage of he inhabitants.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>That is a great priviledge of the inhabitants of England, that all free-borne doe chuſe and appoint to the higheſt aſſemblie, there can be no cup prepared that can corrupt ſo many thouſand men, the commons are ordinarily good, all the corruption is about the head, and the great ones, who to get into places and offices carry themſelves a loft, and they are no ſoo<g ref="char:EOLhyphen"/>ner come upon the cusheon, but preſently they are Poli<g ref="char:EOLhyphen"/>ticks, though they were never ſo good Patriots before; which we have alſo had experience of in our popular go<g ref="char:EOLhyphen"/>verment; Many ſo long as they are citizens, are lovers of Religion and Libertie: But ſo ſoone as they come into the counſill houſe, then obſerve they preſently how the winde blowes, and ſuffer themſelves to be miſſe led by ſome great ones that beare ſway in all aſſemblies, and begin to be enemies to Religion, and helpe to ſuppreſſe the cities and provinces, making one or two maſters, who then direct all things in goverment for themſelves,
+<pb n="40" facs="tcp:117428:27"/> and their fat offices: yea it goes ſo groſſe in this point, that 't is to be feared, that the Commons shall one time or other go to pot; oh, that there might be once amongſt us alſo, a general Parliament aſſembled, for the redreſſe of that great declining amongſt us! and that the gover<g ref="char:EOLhyphen"/>nours themſelves (though upon their Oath, and for all thoſe advantages which they reape by the goverment) would take care to maintein our dear bought freedome, and watch to the furtherance of the proſperity and wel<g ref="char:EOLhyphen"/>fare of their citizens: then should the lords have honour love and all things from their ſubjects who with great affection are taken up with all thoſe lords which shew themſelves good Patriots.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Yea, have you alſo flatterers amongſt you? I thought that all Netherlanders were free born, &amp; that the blood of their forefathers was in their veins, who did not fear the mighty king of Spain, but adventured their lives and eſtates for their liberty and would not be ſlaves to theſe or any. Whom hath any man need to fear amongſt you? you have no Soverreign, the cities themſelves make the ſovereignity amongſt you, every Lord amongſt you is a member of the aſſembly, and each can have in himſelf great attention, and power, if they be but wiſe enough to imploy it.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You ſpeak with underſtanding concerning our goverment; and no man needeth to be a ſlave, if every one were content with his own, and were not too ambi<g ref="char:EOLhyphen"/>tious; but there are many who (for an office, or to remain on the Cushion) fear not much to damme their ſouls, and to ruine their countrie, &amp; to give away all to ſome great ones, to make the cities Amen-ſayers, and the provinces ſlaves, that by their means they may effect that which the time all too ſoon (as is to be feared) shal manifeſt, but we digreſſe from our purpoſe, tell me then how had
+<pb n="41" facs="tcp:117428:27"/> the Parliament its beginning, and how all things went there.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The Parliament by Gods wonderfull direction, a<g ref="char:EOLhyphen"/>gainſt the wil of all the great ones, are come together, &amp; after that the Scots had shewen the end of their falling into England, that it was not out of any covetous deſire either of the goods or bloods of the English nation, but only out of an upright deſire and love to their own free<g ref="char:EOLhyphen"/>dom, and the freedoms of their loving and affectionate Brethren in the Kingdome of England, then have they preſently more exactly underſtood one an other, and the Parliament began more narrowly to conſider the diſor<g ref="char:EOLhyphen"/>ders of their own ſtate.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>So was there then preſently concluded a brother hood between the English and the Scots? O wonderfull work of God! that knew how ſo ſuddainly to remove that diſperſed jealouſie; and to uſe ſo ſmall a nation; (but full of courage and religion) to open the eyes of the mighty Kingdome of England, to affect their own free<g ref="char:EOLhyphen"/>domes. But how did the Parliament then farther pro<g ref="char:EOLhyphen"/>ceede?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>That would be too much to relate but we will only point at ſome principall things? They have firſt inquired what were the inormities of the Kingdom, and who were the cauſes thereof, and they found ſuch a maſſe of cor<g ref="char:EOLhyphen"/>ruption, that in the whole Kingdom (either in the church or common weal) there was ſcarce any thing ſound, and all occaſioned principally by the Bishops, and ſome <hi>Eſpaniolized</hi> English about the king, as it was manifeſted to the Parliament daily by an overflood of requeſts, and greevances of the inhabitants, out of all quarters of the Kingdom, with the ſubſcriptions of many thouſands of men, exhorting them to remove the evill, and Authors thereof.</p>
+               <pb n="42" facs="tcp:117428:28"/>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>We may ſee that the boil was ripe; for the launce no ſooner came neer it, but preſently the matter iſſued out. But what were thoſe matters which they found out?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Concerning the church matters and the exorbi<g ref="char:EOLhyphen"/>tances thereof, I have noted them before; there was a generall crye againſt them, all calling for the depoſing of the Bishops, and the rooting out of their Hierarchie: whereupon preſently there aroſe a great adoe, and oppo<g ref="char:EOLhyphen"/>ſition of the whole Epiſcopall faction, eſpecially in the Higher-houſe, where they about fower and twenty or more are members, and alſo all the Papish lords of the Vpper-houſe which were alſo 24. or more, which con<g ref="char:EOLhyphen"/>ſtantly held with the Bishops, whence men may eaſily judge what correſpondence the Bishops have had with the Papiſts, who ought by the form of their office to have been ſo far ſeperated from them, as light and darkneſſe, Chriſt and Belial: ſo that whatſoever was concluded a<g ref="char:EOLhyphen"/>gainſt them or their popely inſtitutions in the Lower-houſe, was preſently oppoſed in the Vpper-houſe; ſo that there could be no proceeding, till by degrees di<g ref="char:EOLhyphen"/>vers matters were diſcovered, whereby now theſe Bi<g ref="char:EOLhyphen"/>shops are in the Tower, and at laſt the Arch-Bishop al<g ref="char:EOLhyphen"/>ſo for divers heavy, accuſations which the Scots, brought in againſt him, by whoſe abſence the good Lords of the Parliament procured now one, and then ano<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her good reſolution, to the hinderance of many ſorts of newly ap<g ref="char:EOLhyphen"/>pointed inſtitutions.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Theſe are great beginnings of Reformation, it is wonder that the Biſhops have not (as it began to be thought of them) incited the king (with whom they are at all times converſant) to diſſolve the Parliament as other Nimrods have done in the like caſe.</p>
+            </sp>
+            <sp>
+               <pb n="43" facs="tcp:117428:28"/>
+               <speaker>E.</speaker>
+               <p>That was prevented, for the Parliament being de<g ref="char:EOLhyphen"/>ſired to graunt the King certain ſubſidies, have graun<g ref="char:EOLhyphen"/>ted the ſame upon this condition, that the King should paſſe an Act, that he should not diſſolve them but by conſent of both houſes, which he hath ſubſcribed; be<g ref="char:EOLhyphen"/>ſide there were many thouſands of apprentices ſtood up in London to defend the Parliament, deſiring that the Arch-Bishop and other bad inſtruments might be puni<g ref="char:EOLhyphen"/>shed, ſo that the Parliament could not be diſſolved, eſpe<g ref="char:EOLhyphen"/>cially ſeeing the Parliament men had bound themſelves to each other by oath, not to depart till all things were redreſſed.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Therein hath the King yet manifeſted an inclina<g ref="char:EOLhyphen"/>tion to reformation, in that he hath graunted the Parlia<g ref="char:EOLhyphen"/>ment ſuch an act.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The King perceived well in what hatred all his ſer<g ref="char:EOLhyphen"/>vants that were about him were, by reaſon wherof many through an evill conſcience fled to France, or the Ne<g ref="char:EOLhyphen"/>therlands, ſo that the King without the Parliament could not have quieted the people, and therefore he was ne<g ref="char:EOLhyphen"/>ceſſitated to agree to it, hoping (through his authority, &amp; thoſe perſons which he had in the houſes) to bring all yet to his own minde: but the King was too great a Pa<g ref="char:EOLhyphen"/>tron of all the malignants, which he ſought to ſave, that made the members more and more to ſtrengthen them<g ref="char:EOLhyphen"/>ſelves againſt the King, to reſiſt him therein: whereupon the King put on the foxes skin, diſſembling, and abando<g ref="char:EOLhyphen"/>ning many perſons; yea did paſſe an Act that the Bishops should ſit no more in the Higher houſe, which gave great content, and had the king left all his bad ſervanrs, and joyned himſelf with the Parliament, there had never bin a more mighty king in England then this.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I am alſo of that opinion, but do we not ſee or<g ref="char:EOLhyphen"/>dinarily, that the ſervants of Kings and Princes, abuſe
+<pb n="44" facs="tcp:117428:29"/> their maſters, with calumnies and lyes againſt the beſt to diſplace them, and then alone to abuſe the ear of Princes to their own ends, not careing whither their maſters be beloved or hated, if they can but be great with them, and by their power work but their own paſſions againſt o<g ref="char:EOLhyphen"/>thers. It goeth alwayes ſo amongſt us alſo, that the ſer<g ref="char:EOLhyphen"/>vants that are moſt about our Prince in all places where they have authority, bring in drunkards, and novices: thruſting out the antient, honorable, beloved, grave gen<g ref="char:EOLhyphen"/>tlemen, to the great diſtaſt, and offence of the Comu<g ref="char:EOLhyphen"/>nalty and that by falſe reports brought to his Highneſſe againſt them, who unwittingly, and without his fault is therby ill thought of in all places, as if he where a patron of ſuch vile perſons, which we muſt notwithſtanding judge to be far from his princelike diſpoſition. But tell me, what is there more fallen out in the Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Continual Requeſts of the inhabitants, ful of com<g ref="char:EOLhyphen"/>plaints againſt the Kings Courtiers, concerning the great oppreſſion which they have uſed over the people in <hi>Mo<g ref="char:EOLhyphen"/>nopolies,</hi> and unjuſt impoſitions, whereby they have drawn millions from the comunalty, part for the King, but moſt for themſelves, wherof many that ſate in the Parliament are found guilty, which were preſently put out of their commiſſions, and places, as well in the Higher as the Lower houſe; whereby the Parliament was more and more refined; which being diſanulled, and declared to be unlawfull to the great content of the common alty, who thereby have gotten more affection to the Parliament, and given them the more incouragement, to proceed in the Reformation: ſo that they themſelves have cauſed the <hi>Earl of Strafford</hi> to be apprehended, made his proces, and proved that he had brought the King to many bad enterpriſes; made him break his covenant with the Scots, tyrannized over the Irish, as was daily confirmed by a
+<pb n="45" facs="tcp:117428:29"/> thouſand abominable inſtances out of Ireland: held the Dominion for himſelf, compelled the Parliament of Ire<g ref="char:EOLhyphen"/>land, to graunt great ſummes of money and men to im<g ref="char:EOLhyphen"/>ploy againſt the Scots, and other criminall cauſes more, for which they have (with an enforced conſent from the king who would willingly have ſaved him) beheaded him, and ſo made him an example, whereupon yet more that were alſo guilty are fled.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>This was a great reſolution of the Parliament, and I wonder exceedingly, how they could bring the King to conſent unto that, ſeeing I have alwaies underſtood, that he was one of the principalleſt inſtruments, by whom the King hath brought out his deſignes having promiſed to maintein him.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The King hath done much for him, taking all his guiltineſſes upon himſelf, &amp; by practiſes hath ſought to get him, out of the Tower: but the ſtream was too great againſt him, as wel of the Parliame<g ref="char:cmbAbbrStroke">̄</g>t who manifeſted un<g ref="char:EOLhyphen"/>to the King by many learned lawyers, that he was worthy of death, as alſo of the people that by force would have him out of the way: ſo that the King muſt (although ex<g ref="char:EOLhyphen"/>ceedingly conſtrained) conſent thereunto; but he did not ſubſcribe the ſentence himſelf, but cauſed it to be done by others.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>There cometh to my minde the Marriage of the young Prince, tel me once, how it went about that, for he was in England, when the Deputy of Ireland was execu<g ref="char:EOLhyphen"/>ted: I think I have heard ſome ſay, that it was thought, that the young Prince would have made interceſſion for him to the Parliament; but I underſtood that he did it not, leaſt he should thereby gain the hatred of the peo<g ref="char:EOLhyphen"/>ple, which should be diſcommodious for him.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Concerning the Marriage of your Prince, it was firſt ſet on foot by the Queen Mary, being in the Hague,
+<pb n="46" facs="tcp:117428:30"/> to make her acceptable: but many judged that she meant it not: for being in England it was oppoſed by her fa<g ref="char:EOLhyphen"/>ction, as alſo by the Bishops, and moſt of the Courtiers and great ones which are yet by the King: but the Parlia<g ref="char:EOLhyphen"/>ment did exceedingly preſſe it forward to hinder, her, that she should not go to Spain, from whence she was ſo<g ref="char:EOLhyphen"/>licited by many Ambaſſadours, one after an other; but to marry with a Reformed Lord, who preſently coming into England, was gracious and welcome to the inhabi<g ref="char:EOLhyphen"/>tants, ſo that in the end that Marriage was ſolemniſed, &amp; made ſure, to the great content of the good inhabitants in England, who have judged that it would be a faſter bond, to maintain rhe true Religion, reſiſt the Popish faction, and binde the king faſter to the Parliament: but I hear that many amongſt you have bin much troubled about that Match.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I know nothing of that; all, have accounted it alſo a good Marriage for our ſtate, thereby to make yet a nee<g ref="char:EOLhyphen"/>rer friendship with England which is of one faith with us. Onely ſome are troubled leaſt by this Marriage, all the corruption pride, vanity, and ungodlineſſe of the Eng<g ref="char:EOLhyphen"/>lish Court coming over with her should break in up<g ref="char:EOLhyphen"/>on us, ſeeing that our nation at this time is exceedingly inclined to pompe and novelties, to the ruine of many.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>No that is not it which I have heard: but I have underſtood that ſome were jealous of this great Marri<g ref="char:EOLhyphen"/>age, becauſe they thought it might be an alurement to the young Prince to affect the Sovereignty of the Pro<g ref="char:EOLhyphen"/>vinces, whereunto his Father in law, and his Uncle the King of France, should help him.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Thoſe are but evill aſperſions, like thoſe wherwith Prince Maurice was accuſed by the Arminians<g ref="char:punc">▪</g> for there<g ref="char:EOLhyphen"/>with our Prince should win nothing, but looſe much: for he hath now more to ſay than any Duke of Gelderland,
+<pb n="47" facs="tcp:117428:30"/> or Earle of Holland, or Zeeland ever had: diſpoſing of all places and offices in the ſtate and Camp, by which meanes every one reverenceth him, and ſeeketh to doe him all manner of ſervice; without having any burthen of warr to beare, or to have his head troubled from whence the money should come, to manteyne the warr, he lets the States take care for that: ſo that it is not to be thought, that there is one hair on the Princes head, that thinks therupon; Beſides his Prince like Excellency hath been brought up in this land, and knoweth the nature of our Netherlanders, who should not be brought under any Soveraigne, every one would rather adventure his life and goods, as they have done now theſe ſixty or ſe<g ref="char:EOLhyphen"/>venty years, than that they should let go their liberty, or ſtand under the abſolute goverment of one Sove<g ref="char:EOLhyphen"/>reigne: Should that be ever attempted, it would prove the ruine of the land, therefore it is not to be thought, that the King of France, or England, would lend any aſ<g ref="char:EOLhyphen"/>ſiſtance thereunto although the Prince should deſire it. How dangerous it is to entertain Soveraingty hath bin well to be ſeen in the King of Bohemia; the English na<g ref="char:EOLhyphen"/>tion hath yet too great a feeling thereof, than that they should attempt the like again in any of theirs, and there<g ref="char:EOLhyphen"/>fore entertein not ſuch callumnies, let us leave this, and return again to the English affaires. What more hath ſince that paſſed there?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>After that both the English, and Scots leager, was cashiered, the King went into Scotland, where he diſ<g ref="char:EOLhyphen"/>burthened the Scots, and pronounced them free from rebellion, confirmed all the Acts of the Parliament, and the reſolution of the Synod, and declared that they were falſly accuſed by him whereupon there was made a new covenant betwixt the King and them, as alſo with Eng<g ref="char:EOLhyphen"/>land, to the great joy of both the Nations, who therupon
+<pb n="50" facs="tcp:117428:31"/> have performed ſolemne thankſgiving in both the Ki<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<g ref="char:EOLhyphen"/>doms, that GOD the LORD hath brought to shame the evill counſillers about the King, who alwayes incenſed him, thereby to cauſe war between the two Kingdomes, that ſo by the help of the papiſts, and the force without (as they perſwaded themſelves) they might be maſter of the King and the two Kingdomes, to root out the true Religion, and bring in popery; but GOD be thanked, that hath made the King to ſee, how shamefully they have poſſeſſed him againſt Scotland, that he himſelf before the whold world muſt callin, and nullifie all his pocla<g ref="char:EOLhyphen"/>mations againſt the Scots, as having unjuſtly proceeded againſt them.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>So knoweth GOD how to bring the Counſils of the wicked to shame. GOD preſerve the King that he may no more hearken to thoſe bad inſtruments, that he come into no greater danger, which I exceedingly fear, for I have heard that moſt of his bad Counſillers are yet with him, &amp; thoſe that are fled for their miſdeeds, do yet hold correſpondence with the King, and eſpecially with the Queen, who is a papiſt, and hath many Jeſuits about her, who together will never reſt, but alwayes ſtir to bring in the popish Religion, and to incenſe the King thereunto who is kind and hearkeneth much to the Queen; what think you thereof?</p>
+            </sp>
+            <sp>
+               <speaker>E</speaker>
+               <p>This troubleth many amongſt us alſo exceedingly, ſo much the more, becauſe it hath appeared to the Par<g ref="char:EOLhyphen"/>liament, that the Queen by an Act in her name, ſubſcri<g ref="char:EOLhyphen"/>bed by the Secretary which is fled to France, hath or<g ref="char:EOLhyphen"/>dained a faſting-day amongſt the Papiſts, to pray to the Saints, that the great deſigne, which was in hand, for the favour of the Catholikes, might proſper; from whence may be eaſily gathered, that she hath knowledge of all thoſe bad deſignes.</p>
+            </sp>
+            <sp>
+               <pb n="51" facs="tcp:117428:31"/>
+               <speaker>N.</speaker>
+               <p>Yea, is it ſo? Then shall you quickly ſee, though (ſo long as the king is among the Scots, who open his eyes) it now goeth well with him, that he ſhall be ſoon otherwiſe led, when he shall return into England to the Queen and his bad counſellers; for if they knew how to make the king unfaithful, and to break his kingly word, in that firſt agreement made between him &amp; the Scots wherupon the Scots layed down their Arms, and ſurren<g ref="char:EOLhyphen"/>dered the Caſtels and Forts in Scotland to the king; they wil know how to do it yet once more (as is to be feared.) But tell me, have I not heard, that there are now and then many treaſons diſcovered?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You muſt not have ſo bad a conceipt of our king: but that there are divers treaſons diſcovered, is true, both before the kings goeing into Scotland, in the time of his being there, and alſo ſince his return thence unto London, and eſpecially there is diſcovered (by ſome in<g ref="char:EOLhyphen"/>tercepted letters written out of Scotland to London) a treaſon againſt the principalleſt Lords of Scotland, by ſome great ones in Scotland; as alſo againſt the eminent<g ref="char:EOLhyphen"/>eſt gentlemen of the Engliſh Parliament, whereupon the papiſts in all quarters should inſtantly have ſtood up, maſtered the Tower of London, and in all parts over run the ſtrong holds, and then have maſſacred thoſe of the Religion, according to the example of the murther in Parice.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>O horrible deſigne, if it were ſo! but were theſe not counterfeit letters, by that means to make the com<g ref="char:EOLhyphen"/>munalty more inraged, and to ſtick cloſer to the Parlia<g ref="char:EOLhyphen"/>ment?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Oh, that it had been ſo, that they were but ſha<g ref="char:EOLhyphen"/>dows, &amp; flourishes! yet many things that followed ther<g ref="char:EOLhyphen"/>upon do demonſtrate that it was but all too ſurely inten<g ref="char:EOLhyphen"/>ded, for there are many great ones before this appre<g ref="char:EOLhyphen"/>hended
+<pb n="50" facs="tcp:117428:32"/> in Scotland, which had intended to have maſſa<g ref="char:EOLhyphen"/>chred ſome of the greateſt, as was diſcovered by ſome, who themſelves should have had a hand in it, for whom the King did intercede before his departure out of the Scots Parliament, which did alſo pardon them, where of they ſhall in time feele the ſmart. In England a french Cooke hath confeſſed, that he had undertaken to poy<g ref="char:EOLhyphen"/>ſon all the meate at a certaine feaſt, where all the prin<g ref="char:EOLhyphen"/>cipalleſt gentlemen of the English Parliament should have been, by that meanes to have murdered them.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>O wonder full worke of God, that diſcovereth ſuch hellish deſignes! theſe come no other wiſe than out of the boſomes of the Ieſuits, who after the example of their father the devill, are murderers of men; Trulie out of theſe inſtances, it ſufficiently appeareth, that the trai<g ref="char:EOLhyphen"/>tors were in the knot, but should there be any thing of that, that the papiſts (if this murder had ſucceeded) should have betaken themſelves to Armes?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>There is nothing more ſure; for ſo ſoone as the treaſon in Scotland was diſcovered, then did the Papiſts of Scotland ſtir up the English, to proceede nevertheles with the deſigne, as alſo the Ireish did revolt at the ſame time; who (as is probable) had no certaine intelligence of the ill ſucceſſe, which the deſigne in England and Scotland had; and therfore went they forward with the concluded work, as alſo certain of the chief in this rebel<g ref="char:EOLhyphen"/>lion being taken priſoners have confeſſed, that there was intelligence concerning this point, between the papiſts in Ireland, England, and Scotlaed, &amp; that with the know<g ref="char:EOLhyphen"/>ledge of the Queen, whoſe leager they have openly pro<g ref="char:EOLhyphen"/>feſſed themſelves to be; ſo that the effects have shewed, that while the King was buſie in England and Scotland, with deep proteſtations, declarations, and remonſtran<g ref="char:EOLhyphen"/>ces, to manifeſt his zeal, for the reformed Religion a<g ref="char:EOLhyphen"/>gainſt
+<pb n="51" facs="tcp:117428:32"/> the Papiſts whom he hath cauſed to depart from his court, and from about London, with giving out sharp Proclamations againſt them, to make all the world be<g ref="char:EOLhyphen"/>lieve, that he meant it; In the mean time, not withſtand<g ref="char:EOLhyphen"/>ing that, the Queen and the Minions, and counſillers of the king, were buſie, to raiſe up, ſtrengthen, and arm the papiſts againſt the Religion, Parliament, and good inha<g ref="char:EOLhyphen"/>bitants of England, which made many to fear, that ſuch a thing is not come to paſſe, without the kings know<g ref="char:EOLhyphen"/>ledge, though it be not to be believed, that a king should play ſo with his fidelity, certainly God would not ſuffer ſuch things unpunished.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>A crafty country clown would judge, if that the king had no hand therin, he would not retein ſuch ſerva<g ref="char:cmbAbbrStroke">̄</g>ts by him, as were found guilty of ſuch miſchiefs, but punish them as traytors, to juſtifie himſelf: but is there nothing come to paſs, whence we may wel perceive, that the king is no longer in the Scottish aire, but hath forgotten all his fair concluſion in Scotland?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>There are (ſure enough,) heavy things come to paſs, wherinto the king hath ſuffered himſelf to be led, which give great ſuſpition, that the king is yet ruled by the malignants, for the king hath ſuffered himſelf to be ſo far carried away by his bad counſill, that he went with armed men to the Parliament, and that as his ſervants themſelves have confeſſed to fall upon the Parliament Lords, whereby the king did put himſelf in the greateſt danger, to cauſe a common maſſachre, had not GOD himſelf wonderfully prevented it; for which the king hath yet thanked GOD afterward: for through but one unadviſed word from the King, thoſe blood<g ref="char:EOLhyphen"/>hounds should have fallen on, as they alreadie began to juſtle, and ſtrike ſome gentlemen, coming to the Parliament.</p>
+            </sp>
+            <sp>
+               <pb n="54" facs="tcp:117428:33"/>
+               <speaker>N.</speaker>
+               <p>This muſt have exceedingly diſtracted the Par<g ref="char:EOLhyphen"/>liament Lords, and made great alteration amongſt the people, for had that come to paſſe, the whole Kingdome should have been in an uproar. We may well ſee, that theſe counſillers care not, though they bring the King in great danger of his life, and ſpoil his Kingdome, ſo they may but effect their deſigne. But what was the iſſue therof?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Some of the counſillers to this work, are fled: the people began to fall upon the ſouldiers, the Parliament enſured themſelves with a guard, and begun to perceive that is was coyned for them, which made the members of both houſes unite themſelves, with the more courage to take in hand the reformation. The malignants have ſo much the more incenſed the King againſt the Parlia<g ref="char:EOLhyphen"/>ment and his people, making him believe that he was not ſafe within London, whereby they induced him to leave London, and go into the country with his Son, that by his abſence from the Parliament, all reſolutions might be the eaſier hindered, &amp; to make farther diſtruſts between him and the Parliament, of which alſo we dayly perceive the effect, for notwithſtanding that the Parliament have bin very inſtant, to get his Majeſty again to London by them, and to remain by the affairs of the Kingdome, yet all was in vain. How great ſecurity they have alſo promi<g ref="char:EOLhyphen"/>ſed the King? But he is yet departed farther and farther, to the wonderful hinderance of all the affairs of the king<g ref="char:EOLhyphen"/>dome.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Theſe were all bad ſignes of farther miſchief, for if the malignants be ſo powerful with the King, that they can make him to forſake his great counſill, (who in all her actions hitherto hath manifeſted nothing els but to be Advocates for the Religion, prerogative of the King, &amp; Defenders of the priviledges of the inhabitants) to be
+<pb n="55" facs="tcp:117428:33"/> take himſelf wholy to their counſil, ſo shal they in the end draw him wholy from his Parliament, and bring him into a civill war But how goeth it in the mean time with the Irish rebellion?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>It goeth there very pittifully the rebels are ex<g ref="char:EOLhyphen"/>ceeding ſtrong, almoſt maſter of all, and deal more bar<g ref="char:EOLhyphen"/>barouſly with the reformed, than the Spaniards have done with the Indians, as appeareth by many printed papers, which maketh mens hearts to melt with grief, when they do but hear of their Tyranny, ſo that thoſe of the Religion be in the extreameſt diſtreſſe, &amp; relief cometh but ſlowly to them, ſo that we may fear that the rebels will go away with that Kingdome, which God preſerve.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>What is the reaſon that it is not ſpeedily handled to ſend ſuccour that way, for the King is well inclined to the furtherance of that work, as is not to be believed, but that he hath compaſſion on the poor people of the Reli<g ref="char:EOLhyphen"/>gion, who every moment are in fear of death?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>What shall I ſay? Oh that it were ſo, that we had no reaſon to believe it; the Iriſh brag that they are the kings leager, and have no other intention, but to maintein him againſt the Parliame<g ref="char:cmbAbbrStroke">̄</g>t, for whatſoever ordinance the Par<g ref="char:EOLhyphen"/>liament paſſeth for the hindering of the rebellion in Ire<g ref="char:EOLhyphen"/>land, the king refuſeth to ſubſcribe, or delayeth it ſo long till the occaſion to ſend ſuccour is by paſt, without ta<g ref="char:EOLhyphen"/>king this work to heart, or incouraging the inhabitants thereunto; yea the King sheweth that he is quite other<g ref="char:EOLhyphen"/>wiſe conceited againſt them, than he was againſt the Scots, theſe he proclaimed preſently rebels, beſet their havens, gave their ships to the prey, when he would not but by great adoe ſuffer the Irish to be declared rebels by publication, whereof he would have but forty copies printed, that this proclamation of the Kings should be the leſſe known, when he hath declared the Scots re<g ref="char:EOLhyphen"/>bels
+<pb n="54" facs="tcp:117428:34"/> by a thouſand Proclamations, yea he hath cauſed th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to be read in every pulpit, and ſo manifeſted more affection, or mildeneſſe, to the papiſticall Irish; than to the reformed Scots. Every one may from hence judge, where the King, or his counſill is lodged.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>I begin wholy to believe, that the Queen hath made the King ſure to the papish faction: and though he be now faire of the Religion, and meaneth not to root it out, they should yet bring him thereunto; to the deſtru<g ref="char:EOLhyphen"/>ction of himſelf, and his Kingdome. GOD open the eyes of the King, to take notice of thoſe Achitiphels, &amp; ſons of Belial which are about him, &amp; to be ware of them; O unhappy Kings that meet with papish Wives, who thruſt forward their husbands (unawares) till they be drowned in tumults! Oh that this bad inſtrument were ſeperated from the King!</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>There is great likely hood thereof, for the Queen hath made it known to the Parliament, that she with her daughter would come hither, to the Hague, by the young Prince, her ſon, which the Parliament hath aſſented to; and she is come already, fetcht in by your Prince, and welcomed in the Brill, &amp; therupon come with the young Prince to the Hague, where ſhew was ſome daies entertein<g ref="char:EOLhyphen"/>ed in the lands behalf, and welcomed by all the counſils.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>You tel me now ſome news; which doth not pleaſe me very well, this muſt have a bad foundation, that a Queen should ſo come out of her Country, while her husband with his inhabitants are in ſuch diſtraction, and that shee her ſelf ſo inconſideratly and unexpectedly should bring over the young Princeſſe, before the ap<g ref="char:EOLhyphen"/>pointed time, GOD graunt that she bring not the two di<g ref="char:EOLhyphen"/>viſions of England, into our Land, or ingage our Prince, or State, for the King, againſt the Parliament, which should cauſe great ſtirres here in our Land.</p>
+            </sp>
+            <sp>
+               <pb n="55" facs="tcp:117428:34"/>
+               <speaker>E.</speaker>
+               <p>This was alſo feared in England, that she should uſe all means to get in this State, againſt the Parliament, for the King, whereby great diſadvantages should hap<g ref="char:EOLhyphen"/>pen both to the good partie, as alſo to Netherland it ſelf: yet it is hoped, that the Prince of Orange, and the States of the Land should keep themſelves out of this, and not meddle in this matter, but hold themſelves neutrals, ſee<g ref="char:EOLhyphen"/>ing they know well, that the Parliament ſeeketh but to maintain the Religion, &amp; their Priviledges; on the con<g ref="char:EOLhyphen"/>trary the Kings counſill intendeth nothing, but further<g ref="char:EOLhyphen"/>ance of the popish Religion, and oppreſſion of the inha<g ref="char:EOLhyphen"/>bitants as hath been before plentifully declared.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>It is a needleſſe fear, our State shall in nothing reſiſt the Parliament, els we should condemne our own war, their cauſe is juſt as ours was in the beginning, when the States of the Land mainteined the Religion, &amp; free<g ref="char:EOLhyphen"/>dom againſt the King of Spain, wherein the English Na<g ref="char:EOLhyphen"/>tion did help us: far be it then, from any true hearted Netherlanders, that they should reſiſt the Parliament ei<g ref="char:EOLhyphen"/>ther in counſill or action, yea if it should come ſo far, all should rather help the Parliament, than the King. If the King get the upper-hand, the papish Religion shall be exalted, yea the King himſelf, and all welwillers should be ruinated: if the Parliament prevail, ſo shal the King be yet well preſerved, and honeſt men shall dwell in reſt.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Our fear is not without reaſon, for now of late ſoul<g ref="char:EOLhyphen"/>diers and officers which are, and remain in the ſervice of the Land, and hold their gages here, with much ammu<g ref="char:EOLhyphen"/>nition out of the Magazines of the land, have bin ſent to the King, at the requeſt of the Queen, &amp; with knowledge of thoſe, from where the man is now loſt: What is this els, but to give the knife to cut our own throats &amp; yours? for which we have cauſe to proteſt before God, and the world, and call for vengeance thereupon; This exceed<g ref="char:EOLhyphen"/>ingly
+<pb n="56" facs="tcp:117428:35"/> diſtracted our Nation, that they have not ſo much favour shewed them, as the Scots, with whom they have not ſo handled.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>If it be ſo, you have reaſon to be diſtracted, we have alſo as great cauſe: for in ſo doing we disfurnish our ſelves of amunition and men, that we might be the more eaſily fallen upon. To do ſo, is the head, and if the commons should know it, it would not go wel with them. I cannot receave it that the governours would trouble themſelves herewith, for though there were many ſlaves among the Lords, yet there be many good cities, that would take it upon them.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You judge well, for they of Holland take it ex<g ref="char:EOLhyphen"/>ceedingly on them, have well received the meſſengers of the Parliament, at their intreaty have arreſted divers ships with amunition, that would go to the King, notwithſtanding the deep proteſtations of the Queen againſt it: they alſo will that thoſe shall be ſought for, that have ſent away the former amunition without their knowledge, yea they preſſe this point ſo far, that they have ſent a meſſage to them of Zealand, to be one with them in this point, and other points tending to the main<g ref="char:EOLhyphen"/>tainance of the freedom of the Land, which is there alſo exceedingly wel taken up, and concluded to the conten<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment of thoſe of Holland, although it were there ſtoutly ſtrugled againſt: God graunt that the Provinces may underſtand it ſo likewiſe.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>Sir, whence heard you all this; you muſt have liſt<g ref="char:EOLhyphen"/>ned with a curious ear; you tell me here choice tydings, God muſt be praiſed for the zeal of the honorable States of Holland, this is a token that there muſt be yet many good Lords there, God make their nomber tenfold more and ſo incourage them, that neither by promiſes, nor de<g ref="char:EOLhyphen"/>ceipts, they may be won to deſiſt from this good begun
+<pb facs="tcp:117428:35"/> work; their reward shall be with God, and all good inha<g ref="char:EOLhyphen"/>bitants shal carry them upon their hands, and with them, adventure all for the freedom.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>We doubt not of the affection of the Commons: but they know not many times, that their ſafety dependeth upon ours, and that this doing is not for us alone, but for them alſo: But the Governours ſee this well, and there<g ref="char:EOLhyphen"/>fore we hope that they shall be for us, as for themſelves, as it is alſo very needfull; for the Queen doth not ceaſe to be on his Highnes ear, to ingage himſelf, and aſſiſt her with men, and mony, for the Marriage ſake; yea she re<g ref="char:EOLhyphen"/>gardeth not to write to the King, that the Prince hath afforded her all help in this thing already, which muſt be receaved with diſcretion, for ſhe can write that, to ani<g ref="char:EOLhyphen"/>mate the King, although there be nothing of it, ſuch pra<g ref="char:EOLhyphen"/>ctiſes go through the world; she pawneth ſtill daily the Iewels of the Kingdom, knoweth how to ſend officers privately, with amunition to the King, which by little and little through the wonderfull providence of GOD falleth into the Parliaments hand, by which all her deſig<g ref="char:EOLhyphen"/>nes are diſcovered, like as GOD from time to time hath brought to light all enterpriſes againſt the Parliament. GOD graunt it may be alwayes ſo.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>All good men are with his Highnes exceedingly perplexed, who by this Marriage, is in a great ſtreyt, on the one ſide he would willingly give content to the Queen and the King, being ſo neer bound unto them by aliance, in regard of his ſon; on the other ſide, the beſt governours, and body of the inhabitants incline to the Parliament, whoſe good wil doth moſt concern his High<g ref="char:EOLhyphen"/>nes, for therwith he muſt keep houſe, God give his High<g ref="char:EOLhyphen"/>nes wiſdom, that he ſail not againſt the ſtream to ingage himſelf farther with them that no farther diſeaſes or un<g ref="char:EOLhyphen"/>quietnes come upon us and England. But tell me how it goeth forward with the Kings matters.</p>
+            </sp>
+            <sp>
+               <pb n="58" facs="tcp:117428:36"/>
+               <speaker>E.</speaker>
+               <p>I have gotten even now, a Letter from England, that the Earle of Eſſex with the Leager is marched to<g ref="char:EOLhyphen"/>wards the King, firſt to deſire his Majeſty by requeſt to be pleaſed to joyn himſelf to his Parliament, and in caſe of refuſall to ſee if he can free his Majeſty from his bad counſillers, with ſo little blood shed as he can.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>But I hear that the King hath alſo a mighty leager, &amp; beſides that, he gets the Papiſts dayly to his aſſiſtance, yea, that he himſelf hath called them to aide him. Tell me once what there is, concerning that, for that should manifeſtly oppugne all his former deep proteſtations, wherein he hath many times cal'd God to witneſſe, and thereby should before GOD and the whole world, make himſelf a perjured perſon, juſtifie the Parliament in their proceedings, and let every one ſee, that they intend nothing but the ſuppreſſion of the freedoms of the king<g ref="char:EOLhyphen"/>dom, and the Religion.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>That is certain, that the papiſts who were diſarmed by order from the Parliament, have at their requeſt re<g ref="char:EOLhyphen"/>ceived expreſſe order from his Majeſty, to arme them<g ref="char:EOLhyphen"/>ſelves, for his, and their own defence.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>But we wonder, that the Parliament hath ſo long delayed: they might long before this time, have more eaſily beſet the King, when he had but 2. or 300. men with him, now it will coſt much blood, &amp; ſpoil England.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>The Parliament have taken the mildeſt way, and alwayes hoped by humble meſſages, ſupplications, and high preſentations to the King, to mollifie him, open his eies, and bring him again unto them: Now they can ma<g ref="char:EOLhyphen"/>nifeſt to all the common people, and before the whole World, that they are brought, by the greateſt neceſſity, to the laſt remedy of open war againſt their King, and are free from all the innocent blood.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>The Parliament sheweth themſelves to be right
+<pb n="59" facs="tcp:117428:36"/> fathers of their country, that ſeek to content their inha<g ref="char:EOLhyphen"/>bitants ſo much as they can. GOD give them wiſdom, and courage, to do all things according to juſtice, and right, in ſincerity before GOD, for his holy truth, to the rooting out of papacy, and then they need not fear, but GOD will further his own cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>This the Parliament Lords of both Houſes, have profeſſed with high and deep oaths, and all their actions alſo manifeſt the ſame. But they about the King shew, that they have ſworn the deſtruction of the whole King<g ref="char:EOLhyphen"/>dome, for they do nothing but pilledge and ſteal, and eſpecially from the beſt inhabitants, and ſuch as are known and commended for their godlineſſe, whom they have upon a roll, not to paſſe by their houſes, before that (like a company of ungodly perſons) they have turned all things upſide down, and like barbarous men, have hand<g ref="char:EOLhyphen"/>led the men, and women, and children. So that 't is to be feared, if theſe blood thirſty perſons should once get the upper hand, and effect their deſigne, there would fol<g ref="char:EOLhyphen"/>low as bloody dayes, as in the time of Mary.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>In truth, the eſtate of your kingdome and church is exceeding pittifull, it is wholy a popish work, the LORD go forth with the Parliaments Leager, &amp; bring to shame ſuch blood thirſty men; have you not heard, whither any thing hath paſſed between the two Leaguers?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>I got even now writings, that the 2 Leaguers are on each other, that there hath bin a fierce battail, yea, with great advantage for the King, ſeing that 2. Regiments of the Parliament preſently took flight; but the Earle of Eſſex, with ſome other aſſiſtance, fell on with new cou<g ref="char:EOLhyphen"/>rage, and have after a bloody fight, put the kings folk to a retreat, and with honor and advantage kept the field, ſo that on the kings ſide well 3000. and amongſt them
+<pb n="60" facs="tcp:117428:37"/> many great ones, were ſlaine, and on the Parliaments ſide but about, 400. God the Lord fought for them.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>This was a bloody beginning, God ſtay this fury, heale the wound, appeaſe the quarrels, and change the, wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r into peace.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>There is little ſigne of it, for the King ſeemeth rather to be a king of a pillaged people, &amp; waſted coun<g ref="char:EOLhyphen"/>try, than that he ſhould ſtudy to agree with the Parlia<g ref="char:EOLhyphen"/>ment; to the reforming of the Kingdome, yea ſince this battail, his folke, and eſpecially Prince Robert, have to the great diſtaſt of the English who have bin ſo tender hearted of their troubles more, and more inraged, plun<g ref="char:EOLhyphen"/>dered Banbury, and ſome other places, and uſed the people moſt ſhamefully, and ſo they approached cloſe towards the city of London, with their leaguer, there to share the beſt boote, if they could but get it.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>There muſt then needs have been great feare in London.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>You may wel thinke that, but there was good order held in all places within and without the Citie, watch ſet at all paſſages, and ordnance planted, beſides this the Earle of Warwicke is on foot with a new leager, to joyne with the Earle, of Eſſex and then apparantly to fall againe upon the kings leaguer. God, graunt that we may heare good newes, I muſt goe about my buſineſſe, we muſt breake off, till a better oppertunitie.</p>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <p>One word more, is there no more hope af an ac<g ref="char:EOLhyphen"/>commodation?</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Thoſe that now ſpeake of an agreement in the Parliament are fearfull hearted men, and it may be alſo many of them not true hearted enough, the buſines is goen too farr; not with ſtanding ſeing many have good hope to bring the king to a good agreeme<g ref="char:cmbAbbrStroke">̄</g>t, therfore the good members of both houſes, to give unto his Majeſtie
+<pb n="61" facs="tcp:117428:37"/> full meaſure, have againe nominated certaine perſons to deliver a requeſt to his Majeſtie, tending to peace and agreement, and ther upon ſome interceſſons begun, but they in the meane time fell upon the Parliaments troopes, and occaſioned new blood shed, contrary to all proteſtations, and ſo all proved fruiteleſſe, and now all things are made ready in London, to adventure the ut<g ref="char:EOLunhyphen"/>moſt for the religion, and libertie. The people are full of courage, alla like willing to pawne their lives upon it, and a new bloudy battaile is ſpoken of: the Lord fight for his.</p>
+            </sp>
+            <sp>
+               <speaker>E.</speaker>
+               <p>Well is the cauſe ſo exceeding pittifull? how shall we anſwere it before God, that we take no more com<g ref="char:EOLhyphen"/>paſſion upon you? God shall ſee and ſearch it, that we are now ſo careleſſe, knowing nothing but of divellish masking ungodly and wanton ballades, and daunces, ſuperfluous meals, wherwith we dayly pamper our ſelvs as on afeaſt day; and the queene of England with our greatones ca<g ref="char:cmbAbbrStroke">̄</g> make themſelves merry with theſe, in this time of ſorrow, as if this miſery concerned the<g ref="char:cmbAbbrStroke">̄</g> not, how can it goe well with them and us? is it now your turne, it can quickly be ours, my heart is ſo overwhelmed with ſorrow, that I can ſcarce ſpeake any more. I thanke you for your friendly communication, I ſhal pray to God for England, that he will ſpare that glorious Kingdome, diſcover the malignants, open the eyes of the King, and alſo of all our ſtates men, that we may either remaine neutrall, or chuſe the right partie. Fare well my good friend, If you heare any more newes, I pray make me partaker thereof.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
